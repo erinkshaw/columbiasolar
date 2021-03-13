@@ -1,0 +1,19 @@
+#icons {
+  display: flex;
+  justify-content: center;
+  top: 50px;
+  position: relative;
+  align-items: baseline;
+}
+
+i {
+  color: black;
+}
+
+i:hover {
+  color: rgba(0,0,0,.6)
+}
+
+i:first-child {
+  margin-right: 70px !important;
+}
