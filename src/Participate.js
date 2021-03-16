@@ -50,8 +50,6 @@ class SubscribePage extends React.Component {
         target="_blank"
         novalidate
       >
-        <Input size="mini" type="hidden" name="u" value="eb05e4f830c2a04be30171b01" />
-        <Input type="hidden" name="id" value="8281a64779" />
         <label htmlFor="MERGE0">
           Email
           <Input
