@@ -33,7 +33,7 @@ function App() {
 function Home() {
   return (
     <>
-      <Container text>
+      <Container>
         <Header as="h2">
           Shepherd’s Run Solar Farm: Great for Copake, Great for Climate
           <Header.Subheader>

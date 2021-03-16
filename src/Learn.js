@@ -11,14 +11,15 @@ const reasonPanels = REASONS.map((f, i) => ({ ...f, key: i }));
 
 const Learn = () => (
   <>
-    <Container></Container>
-    <Container text className="Learn">
+    <Container className="Learn">
       <Header as="h2">🙋 But wait, won’t all those panels . . .</Header>
       <Accordion panels={factsPanels} />
     </Container>
-    <Container text className="Why">
+    <br/><br/>
+    <Container className="Why">
       <Header as="h2">🤔 But can’t we instead . . .</Header>
       <Accordion panels={reasonPanels} />
+      <br/><br/>
       <Segment>
         <p>
           <b>Note</b>: to comply with New York State regulations, 

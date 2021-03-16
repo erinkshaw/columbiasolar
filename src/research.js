@@ -20,27 +20,27 @@ export const FACTS = [
             Resident have raised concerns about the project’s environment impact.
             Let’s examine each concern, keeping in mind that by law,
             New York State’s Department of Environment Conservation
-            won’t authorize the project unless Hecate can <a href="https://www.documentcloud.org/documents/20514211-new-york-state-article-10-law#document/p8/a2022764">
+            won’t authorize the project unless Hecate can <a target="_blank" href="https://www.documentcloud.org/documents/20514211-new-york-state-article-10-law#document/p8/a2022764">
               prove it is minimizing harm</a> to the environment.
           </p>
           <p>
             🧪 &nbsp;&nbsp; <b>Fewer pesticides</b>: The farms at Shepherd’s Run currently use pesticides
             to grow corn, according to the land owners. Pesticides can be toxic to
-            animals and <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2984095/#:~:text=Impact%20on%20environment,%2C%20and%20non%2Dtarget%20plants.">
+            animals and <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2984095/#:~:text=Impact%20on%20environment,%2C%20and%20non%2Dtarget%20plants.">
               contaminate</a> the water and soil. These toxins will all be eliminated.
           </p>
           <p>
-            🏜️ &nbsp;&nbsp;<b>Less soil erosion</b>: Native grasses, which Hecate <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p10/a2018882">
-              will plant</a> around the panels, can <a href="https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p2/a2019014">
+            🏜️ &nbsp;&nbsp;<b>Less soil erosion</b>: Native grasses, which Hecate <a target="_blank" href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p10/a2018882">
+              will plant</a> around the panels, can <a target="_blank" href="https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p2/a2019014">
               reduce soil runoff by 95%</a> compared to farms. So Shepherd’s Run
             should significantly reduce the amount of runoff into Taghkanik Creek.
           </p>
           <p>
-            ☢️ &nbsp;&nbsp;<b>No soil pollution</b>: The <a href="https://www.8msolar.com/types-of-solar-panels">
+            ☢️ &nbsp;&nbsp;<b>No soil pollution</b>: The <a target="_blank" href="https://www.8msolar.com/types-of-solar-panels">
               crystalline silicon solar panels</a> at Shepherd’s Run are the same kind
-            that go on your roof. They’re made of <a href="https://solar.coopercenter.org/node/8116">
-              glass, auminum, plastic, and silicon</a>. All these materials are <a href="https://beta.documentcloud.org/documents/20488379-international-renewable-energy-agency-end-of-life-management-solar-photovoltaic-panels#document/p82/a2018881">
-              recyclable</a>. None of them are <a href="https://solar.coopercenter.org/node/8116">toxic</a>.
+            that go on your roof. They’re made of <a target="_blank" href="https://solar.coopercenter.org/node/8116">
+              glass, auminum, plastic, and silicon</a>. All these materials are <a target="_blank" href="https://beta.documentcloud.org/documents/20488379-international-renewable-energy-agency-end-of-life-management-solar-photovoltaic-panels#document/p82/a2018881">
+              recyclable</a>. None of them are <a target="_blank" href="https://solar.coopercenter.org/node/8116">toxic</a>.
             There’s no risk of the panels cracking open and contaminating people, animals, or soil.
           </p>
           <p>
@@ -49,14 +49,14 @@ export const FACTS = [
             by reducing erosion and removing cow dung and corn pesticides.
           </p>
           <p>
-            🚰 &nbsp;&nbsp;<b>Water table</b>: Native grassland can <a href="http:/https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p6/a2019018">
+            🚰 &nbsp;&nbsp;<b>Water table</b>: Native grassland can <a target="_blank" href="http:/https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p6/a2019018">
               retain 20% more water</a> than traditional
             agriculture, so the facility will help replenish Copake’s aquifer,
             an important benefit as the local climate warms.
           </p>
           <p>
             🌊 &nbsp;&nbsp;<b>Streams and wetlands protected</b>: The site contains streams and wetlands.
-            To protect them, the solar panels will be placed <a href="https://beta.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p7/a2018883">
+            To protect them, the solar panels will be placed <a target="_blank" href="https://beta.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p7/a2018883">
               100 feet away</a>, as required by state law.
           </p>
           <p>
@@ -86,7 +86,7 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            Copake wants to preserve prime farmland, and has a <a href="https://beta.documentcloud.org/documents/20485435-town-of-copake-agricultural-and-farmland-protection-plan-part-1">
+            Copake wants to preserve prime farmland, and has a <a target="_blank" href="https://beta.documentcloud.org/documents/20485435-town-of-copake-agricultural-and-farmland-protection-plan-part-1">
               plan to do just that</a>.
           Although panels will replace the corn and cattle currently on those farms
           for a few decades, Shepherd’s Run will ultimately strengthen Copake’s farmland.
@@ -99,7 +99,7 @@ export const FACTS = [
             the soil has been depleted by three decades of monocrop corn farming.
           </p>
           <p>
-            Letting that soil rest, and planting native vegetation, will restore its <a href="https://beta.documentcloud.org/documents/20485428-culman-et-al-long-term-impacts-of-high-input-annual-cropping-and-unfertilized-perennial-grass-production-on-soil-properties-and-belowground-food-webs-in-kansas-usa#document/p9/a2018988">
+            Letting that soil rest, and planting native vegetation, will restore its <a target="_blank" href="https://beta.documentcloud.org/documents/20485428-culman-et-al-long-term-impacts-of-high-input-annual-cropping-and-unfertilized-perennial-grass-production-on-soil-properties-and-belowground-food-webs-in-kansas-usa#document/p9/a2018988">
               nutrients and micro-organisms</a>.
             That will improve the soil’s quality and raise the land’s agricultural value.
           </p>
@@ -121,7 +121,7 @@ export const FACTS = [
             for the long-term.
           </p>
           <p>
-            In fact, Copake’s own Agricultural and Farmland Protection plan <a href="https://beta.documentcloud.org/documents/20485435-town-of-copake-agricultural-and-farmland-protection-plan-part-1#document/p29/a2018991">
+            In fact, Copake’s own Agricultural and Farmland Protection plan <a target="_blank" href="https://beta.documentcloud.org/documents/20485435-town-of-copake-agricultural-and-farmland-protection-plan-part-1#document/p29/a2018991">
               explicitly encourages</a> farmers to adopt
             solar in order to preserve farmland.
           </p>
@@ -136,12 +136,12 @@ export const FACTS = [
             the owners from going back to farming once the panels are gone.
           </p>
           <p>
-            But there’s also nothing preventing them from using the land for <a href="https://beta.documentcloud.org/documents/20508998-town-of-copake-zoning-table-of-land-use-regulations">
+            But there’s also nothing preventing them from using the land for <a target="_blank" href="https://beta.documentcloud.org/documents/20508998-town-of-copake-zoning-table-of-land-use-regulations">
               residential and even some commercial development</a>.
           </p>
           <p>
             Shepherd’s Run could change that. As part of the project, the owners could attach a &nbsp;
-            <a href="https://en.wikipedia.org/wiki/Conservation_easement">conservation easement</a> to the property.
+            <a target="_blank" href="https://en.wikipedia.org/wiki/Conservation_easement">conservation easement</a> to the property.
             This would make it illegal to use the land for anything other than farming and clean energy, even if it gets sold.
           </p>
         </Container>
@@ -164,19 +164,19 @@ export const FACTS = [
         <Container>
           <p>
             <Image size="medium" src="https://codahosted.io/docs/HgV-_Qphpe/blobs/bl-L8LkxJwTnM/99d9dd1bdba244033f02542abf0128816becf8eb180e44419597db8ac828344a1c63d1c06856766add992903c60b3ffc902121d5aa1ca9e611a8eaeaf70588ca90d689a7b500d0d7505533a55d444439e7658b99674a0565ea0dc29042156f02211ffbc4"></Image>
-            <a href="https://www.audubon.org/conservation/climate/solar">Audubon</a>
+            <a target="_blank" href="https://www.audubon.org/conservation/climate/solar">Audubon</a>
           </p>
           <br />
           <p>
             🤕&nbsp;&nbsp;<strong>Can solar panels harm birds? </strong>
           </p>
-          <p><a href="https://en.wikipedia.org/wiki/Solar_power_tower#Environmental_concerns">
+          <p><a target="_blank" href="https://en.wikipedia.org/wiki/Solar_power_tower#Environmental_concerns">
             Solar towers</a> do harm birds, but that’s a totally different technology. </p>
           <p>Potovoltaic solar panels probably don’t. Based on experiences at a single
-            solar farm in the water-poor Southwest, <a href="https://www.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
+            solar farm in the water-poor Southwest, <a target="_blank" href="https://www.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
               scientists proposed</a> that water-loving
             birds may mistake the panels for lakes and crash into them. </p>
-          <p>However, this “lake effect” hypothesis has <a href="https://beta.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
+          <p>However, this “lake effect” hypothesis has <a target="_blank" href="https://beta.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
             not been proven</a>. Anecdotal
             evidence from solar farms in the water-rich Northeast suggests little to
              no lake effect in the region. Though we won’t know for sure until more
@@ -189,14 +189,14 @@ export const FACTS = [
             Shepherd’s Run will help our avian friends in two ways:
             <ol>
               <li>
-                By housing native plants that <a href="https://beta.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
+                By housing native plants that <a target="_blank" href="https://beta.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
                   support birds</a>, and keeping predators out, the solar farm will create a sanctuary for them.
               </li>
               <li>
-                Two-thirds of American birds are <a href="https://www.audubon.org/climate/survivalbydegrees">
+                Two-thirds of American birds are <a target="_blank" href="https://www.audubon.org/climate/survivalbydegrees">
                   facing extinction</a> from climate change. Large solar farms that take a real bite out of the
                 problem are essential for protecting them. That’s why the
-                National Audubon Society <a href="https://www.audubon.org/news/solar-power-and-birds">supports grid-scale solar</a>.
+                National Audubon Society <a target="_blank" href="https://www.audubon.org/news/solar-power-and-birds">supports grid-scale solar</a>.
               </li>
             </ol>
           </p>
@@ -220,22 +220,22 @@ export const FACTS = [
             be affected:
             <ul>
               <li>
-                Bald eagles <a href="https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/Bald-Eagle#:~:text=They%20prefer%20lakes%20and%20reservoirs,all%20types%20of%20water%20habitats.">
+                Bald eagles <a target="_blank" href="https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/Bald-Eagle#:~:text=They%20prefer%20lakes%20and%20reservoirs,all%20types%20of%20water%20habitats.">
                   nest</a> in cliffs and trees near large lakes, and eat
                 mostly fish. They have been spotted in Copake, but they don’t
                 depend on bodies of water, not fields.
               </li>
               <li>
-                Peregrine falcons <a href="https://guides.nynhp.org/peregrine-falcon/">nest</a> on bridges, buildings, and cliffs — not
+                Peregrine falcons <a target="_blank" href="https://guides.nynhp.org/peregrine-falcon/">nest</a> on bridges, buildings, and cliffs — not
                 in fields. They are rarely seen in the Hudson Valley, as there
-                are less than <a href="https://guides.nynhp.org/peregrine-falcon/">100 pairs</a> left in the state.
+                are less than <a target="_blank" href="https://guides.nynhp.org/peregrine-falcon/">100 pairs</a> left in the state.
               </li>
               <li>
-                Northern Harriers <a href="https://tpwd.texas.gov/huntwild/wild/species/harrier/">nest</a>
+                Northern Harriers <a target="_blank" href="https://tpwd.texas.gov/huntwild/wild/species/harrier/">nest</a>
                 &nbsp; in prairies - which the corn fields have
                 already eliminated and the solar farm will partially restore -
                 and in wetlands - which the solar farm will preserve. Moreover,
-                they are <a href="https://www.dec.ny.gov/animals/7090.html">infrequently seen</a>
+                they are <a target="_blank" href="https://www.dec.ny.gov/animals/7090.html">infrequently seen</a>
                 &nbsp; in Columbia County because they usually breed further upstate.
               </li>
             </ul>
@@ -269,8 +269,8 @@ export const FACTS = [
             as well as deer, bears, and other large animals — will need to go around the fence.
           </p>
           <p>
-            Local animals already have to do this with the Copake Agricultural Center’s <a href="https://www.nefarmaccess.org/the-ag-center-model/project-five-5hher">
-              192 fenced-in acres</a> in the middle of town, or the <a href="https://www.nurserydirect.com/growers/growers.html?growerid=14">
+            Local animals already have to do this with the Copake Agricultural Center’s <a target="_blank" href="https://www.nefarmaccess.org/the-ag-center-model/project-five-5hher">
+              192 fenced-in acres</a> in the middle of town, or the <a target="_blank" href="https://www.nurserydirect.com/growers/growers.html?growerid=14">
               800 fenced-in acres</a> at the Shagbark
             tree farm. However, the 360-acre project will be split into four separate enclosures,
             each of which will be smaller than those properties.
@@ -294,7 +294,7 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            On the contrary. Right now, we get around <a href="https://docs.google.com/spreadsheets/d/1qtw5G3kuebIgT5yb49TUsAQXfJMZIwxXqrZiWDonzzI/edit?usp=sharing">85% of our electricity</a> from neighboring counties! If we produce our
+            On the contrary. Right now, we get around <a target="_blank" href="https://docs.google.com/spreadsheets/d/1qtw5G3kuebIgT5yb49TUsAQXfJMZIwxXqrZiWDonzzI/edit?usp=sharing">85% of our electricity</a> from neighboring counties! If we produce our
           own power, the vast majority of it will stay in the county.
           </p>
           <p>Why is that? Because power flows to the closest place it’s needed. Our community needs a
@@ -322,7 +322,7 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            Hecate has <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020'">
+            Hecate has <a target="_blank" href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020'">
               committed</a> to minimizing the impact on views as much as possible.
             To that end, they are currently surveying the area to figure out where to
             add trees and where to remove panels.
@@ -331,8 +331,8 @@ export const FACTS = [
             They are planning an open house in April 2021 to present and visualize this new design. We’ll know much more about the visual impacts then.
           </p>
           <p>
-            Nevertheless, it’s useful to keep things in perspective: only <a href="https://www.google.com/search?q=280+acres+in+square+miles&oq=280+acres+in+square+miles&aqs=chrome.0.69i59.5655j0j7&sourceid=chrome&ie=UTF-8">
-              .44</a> of Copake’s <a href="https://en.wikipedia.org/wiki/Copake,_New_York#cite_note-CenPopGazetteer2016-1">
+            Nevertheless, it’s useful to keep things in perspective: only <a target="_blank" href="https://www.google.com/search?q=280+acres+in+square+miles&oq=280+acres+in+square+miles&aqs=chrome.0.69i59.5655j0j7&sourceid=chrome&ie=UTF-8">
+              .44</a> of Copake’s <a target="_blank" href="https://en.wikipedia.org/wiki/Copake,_New_York#cite_note-CenPopGazetteer2016-1">
               42.02 square miles</a> will be covered in panels. That's just 1% of our town.
           </p>
         </Container>
@@ -393,7 +393,7 @@ export const FACTS = [
           <br />
           <p>📝 &nbsp;&nbsp;<b>Findings: no impact on home sales in rural areas</b></p>
           <p>
-            The only <a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
+            The only <a target="_blank" href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
               good academic study</a> (Gaur & Lang, 2020) we could find measures
           the impact of 204 solar farms in Massachusetts and Rhode Island on 400k home sales.
           The conclusion:
@@ -401,7 +401,7 @@ export const FACTS = [
           <p>
             <em>
               “Results suggest that houses within one mile depreciate 1.7%
-              following construction of a solar array.” (<a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p2/a2022756">
+              following construction of a solar array.” (<a target="_blank" href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p2/a2022756">
                 p. 2</a>)
             </em>
           </p>
@@ -414,7 +414,7 @@ export const FACTS = [
               “These results suggest that the treatment effect in rural areas is nbsp;
               <b>effectively zero</b> (a statistically insignificant 0.1%), and that
               the negative externalities of solar arrays are only occurring in
-              non-rural areas. These findings go against our intuition.” (<a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p17/a2022757">
+              non-rural areas. These findings go against our intuition.” (<a target="_blank" href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p17/a2022757">
                 p. 17</a>)
             </em>
           </p>
@@ -441,7 +441,7 @@ export const FACTS = [
           <p>📈 &nbsp;&nbsp;<b>Copake real estate is booming</b></p>
           <p>
             <Image src="https://codahosted.io/docs/HgV-_Qphpe/blobs/bl-iZmqENvCEg/c49dfc3175aea7a233b847d379185f29a83a27d047854411ff88d0c60368712f092b75ebb3d741665f04bd6b868b1479fbc11756083e34d8a71d72b2a80e7d945bbcffa3d8ca4251368c15c837c09eb643a1a65411a7b90da7ddff974d99d8a93f09259f" alt=""></Image>
-            <a href="https://www.realtor.com/realestateandhomes-search/Columbia-County_NY/overview">Realtor.com</a>
+            <a target="_blank" href="https://www.realtor.com/realestateandhomes-search/Columbia-County_NY/overview">Realtor.com</a>
           </p>
           <p>
             Moreover, this 2% drop is tiny compared to the 30% jump in home values we’ve seen in Columbia County
@@ -452,20 +452,20 @@ export const FACTS = [
             interest in our area will continue to grow if many people keep working remotely after the pandemic.
             </p>
           <p><i>
-            * We found only <a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
+            * We found only <a target="_blank" href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
               one study</a> by economists that actually measured the impact of solar farms
                on nearby home sales. The study used real data on 419,000 home sales, and used statistical
                 models to compare the prices of homes near solar farms with those of similar homes elsewhere.
                 This is the gold standard for quantifying the effect of disamenities on property values.
             </i></p>
           <p><i>
-            <a href="https://www.southripleysolar.com/wp-content/uploads/2020/09/Kirkland-Grandy-Solar-Impact-Study.pdf">All</a>
-            <a href="https://www.oglecounty.org/document_center/planning%20&%20zoning/Solar%20Ad%20Hoc%20Committee/PV%20Impact%20Studies/CR%20-%20SunVest%20Solar%20-%20Solar%20Farm%20Impact%20Study%20(Report%20Date%205-30-2018).pdf">
-              other</a> <a href="https://www.innergex.com/wp-content/uploads/2020/05/CohnReznick-Proposed-Paeahu-Solar-Property-Value-Impact-Study_Draft_May-2020.pdf">
+            <a target="_blank" href="https://www.southripleysolar.com/wp-content/uploads/2020/09/Kirkland-Grandy-Solar-Impact-Study.pdf">All</a>
+            <a target="_blank" href="https://www.oglecounty.org/document_center/planning%20&%20zoning/Solar%20Ad%20Hoc%20Committee/PV%20Impact%20Studies/CR%20-%20SunVest%20Solar%20-%20Solar%20Farm%20Impact%20Study%20(Report%20Date%205-30-2018).pdf">
+              other</a> <a target="_blank" href="https://www.innergex.com/wp-content/uploads/2020/05/CohnReznick-Proposed-Paeahu-Solar-Property-Value-Impact-Study_Draft_May-2020.pdf">
               studies</a> ask a handful of property assessors for their opinion, and most are funded
-              by the solar industry. One <a href="https://emp.lbl.gov/sites/default/files/property-value_impacts_near_utility-scale_solar_installations.pdf">
+              by the solar industry. One <a target="_blank" href="https://emp.lbl.gov/sites/default/files/property-value_impacts_near_utility-scale_solar_installations.pdf">
               often-cited study</a> from the LBJ School of Public Affairs relies on
-              surveys from <a href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations">
+              surveys from <a target="_blank" href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations">
               just 37 assessors</a>. This is a tiny sample. And you want to answer this question by
               analyzing hard data on thousands of home sales, not by asking a couple dozen assessors for
               their subjective opinion.
@@ -473,7 +473,7 @@ export const FACTS = [
           <p><i>
             Despite those flaws, the study concludes: “Results from our survey of
             home assessors show that the majority of respondents believe that proximity to a solar installation
-              either had no impact or positive impact on home values (<a href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations#document/p13/a2022758">
+              either had no impact or positive impact on home values (<a target="_blank" href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations#document/p13/a2022758">
               p. 23</a>)
               </i></p>
         </Container>
@@ -496,12 +496,12 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            Solar panels <a href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
+            Solar panels <a target="_blank" href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
               very rarely start fires</a>. We know this because, even though the US
             doesn’t track solar panel fires, other countries do: In the past 20 years,
-            only <a href="https://beta.documentcloud.org/documents/20509670-fraunhofer-recent-facts-about-photovoltaics-in-germany#document/p84/a2021887">
+            only <a target="_blank" href="https://beta.documentcloud.org/documents/20509670-fraunhofer-recent-facts-about-photovoltaics-in-germany#document/p84/a2021887">
               120 of Germany’s 2 million</a> solar installations stared a fire. In Japan,
-            only <a href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
+            only <a target="_blank" href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
               127 of 2.4 million</a> did. That’s only .006% of all solar systems.
           </p>
           <p>
@@ -529,14 +529,14 @@ export const FACTS = [
         <Container>
           <p>
             In New York State, if you want to build a solar farm less than 25MW,
-            the town alone <a href="https://beta.documentcloud.org/documents/20509723-nyserda-seqr-for-large-scale-solar#document/p11/a2021910">can approve or deny</a> the project. If it’s greater than 25MW,
+            the town alone <a target="_blank" href="https://beta.documentcloud.org/documents/20509723-nyserda-seqr-for-large-scale-solar#document/p11/a2021910">can approve or deny</a> the project. If it’s greater than 25MW,
             however, a state siting board - made up of 5 state appointees and 2
-            local ones - <a href="https://www.nyserda.ny.gov/All-Programs/Programs/Clean-Energy-Siting/Siting-for-Large-Scale-Renewables">
+            local ones - <a target="_blank" href="https://www.nyserda.ny.gov/All-Programs/Programs/Clean-Energy-Siting/Siting-for-Large-Scale-Renewables">
               must approve it</a>.
           </p>
           <p>
             Shepherd’s Run is 60MW, so Hecate has no option but to go through the
-            State-level <a href="http://blogs.law.columbia.edu/climatechange/2011/06/28/the-power-new-york-act-of-2011-reauthorizes-and-modernizes-article-x-of-the-public-service-law/">
+            State-level <a target="_blank" href="http://blogs.law.columbia.edu/climatechange/2011/06/28/the-power-new-york-act-of-2011-reauthorizes-and-modernizes-article-x-of-the-public-service-law/">
               article 10 siting process</a> (or the new 94C process).
             They can negotiate with the Town of Copake, but ultimately the
             siting board still has to approve.
@@ -548,7 +548,7 @@ export const FACTS = [
           </p>
           <p>
             At that point, Shepherd’s Run is legal even though it doesn’t comply
-             with local zoning rules, because <a href="https://beta.documentcloud.org/documents/20485437-nys-article-10-regulations#document/p95/a2021904">
+             with local zoning rules, because <a target="_blank" href="https://beta.documentcloud.org/documents/20485437-nys-article-10-regulations#document/p95/a2021904">
               state law can supersede local law</a> in
               New York when it comes to solar farm siting.
           </p>
@@ -579,7 +579,7 @@ export const REASONS = [
             catastrophe.
           </p>
           <p>
-            We need to build around <a href="https://youtu.be/OUpgDsfYhec?t=921">
+            We need to build around <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=921">
               360 square miles</a> of solar in the next 15 to 20 years
             to reach 100% clean energy in New York State, according to solar power expert
             Dr. Richard Perez of SUNY Albany. If we put panels on half of all buildings
@@ -627,11 +627,11 @@ export const REASONS = [
           <p>
             And there’s the rub. Building on a brownfield is much more expensive than building on farmland:
             <ul>
-              <li>Landfills can be up to <a href="https://www.solarpowerworldonline.com/2019/07/how-does-solar-on-capped-landfills-work/">
+              <li>Landfills can be up to <a target="_blank" href="https://www.solarpowerworldonline.com/2019/07/how-does-solar-on-capped-landfills-work/">
                 20% more expensive</a> to build, because the ground is
                 unstable and full of greenhouse gases.</li>
               <li>Solar parking lots are a clever use of space, but because of their complicated
-                 construction, they produce electricity that’s <a href="https://solarbuildermag.com/featured/solar-carport-installation-construction-best-practices/">
+                 construction, they produce electricity that’s <a target="_blank" href="https://solarbuildermag.com/featured/solar-carport-installation-construction-best-practices/">
                   4-8x</a> more expensive than utility-scale solar.</li>
               <li>Industrial sites have to be cleared of above-ground structures and
               require specialized panels that don’t penetrate the ground to avoid disturbing
@@ -646,9 +646,9 @@ export const REASONS = [
             close to enough brownfields out there.
             </p>
           <p>
-            There are <a href="https://youtu.be/OUpgDsfYhec?t=1408">24 square miles</a> of parking lots in New York,
-             and <a href="https://youtu.be/OUpgDsfYhec?t=1394">29 square miles</a> of landfills
-            and industrial areas. That’s only <b>15%</b> of the <a href="https://youtu.be/OUpgDsfYhec?t=921">
+            There are <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=1408">24 square miles</a> of parking lots in New York,
+             and <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=1394">29 square miles</a> of landfills
+            and industrial areas. That’s only <b>15%</b> of the <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=921">
               360 square miles</a> of solar we need to build in the next 15 to 20 years.
             </p>
           <p>
@@ -703,7 +703,7 @@ export const REASONS = [
           <p>
             The further we place the solar farm from the substation, the more
             transmission line we need to run. Not only is this unsightly,
-            it’s surprisingly expensive: between <a href="https://www.transmissionhub.com/articles/2012/10/wecc-report-building-transmission-in-the-west-costs-1m-to-3m-mile.html">
+            it’s surprisingly expensive: between <a target="_blank" href="https://www.transmissionhub.com/articles/2012/10/wecc-report-building-transmission-in-the-west-costs-1m-to-3m-mile.html">
               1 to 3 million dollars per mile</a>.
           </p>
           <p>
@@ -730,7 +730,7 @@ export const REASONS = [
         <Container>
           <p>
             In response to community concerns, Hecate has already cut the project down by
-            nearly 30%, from 500 acres to 360 acres, of which <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020">
+            nearly 30%, from 500 acres to 360 acres, of which <a target="_blank" href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020">
               only 280 acres</a> will be covered in panels.
           </p>
           <p>But Shepherd’s Runs still needs to be hundreds of acres, not dozens. For two reasons: cost and scale.</p>
@@ -738,7 +738,7 @@ export const REASONS = [
           <p>
             The smaller the project is, the more expensive the electricity it produces.
             Utility-scale solar projects are cheaper than natural gas plants, but
-            10 acre community solar projects <a href="https://www.lazard.com/perspective/levelized-cost-of-energy-and-levelized-cost-of-storage-2020/">
+            10 acre community solar projects <a target="_blank" href="https://www.lazard.com/perspective/levelized-cost-of-energy-and-levelized-cost-of-storage-2020/">
               are more expensive</a>.
           </p>
           <p>
@@ -749,7 +749,7 @@ export const REASONS = [
             “we’re a small town, the solar farms should be small too!”
           </p>
           <p>
-            But consider this. Shepherd’s Run has .44 square miles of panels. We need build <a href="https://youtu.be/OUpgDsfYhec?t=921">
+            But consider this. Shepherd’s Run has .44 square miles of panels. We need build <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=921">
               360 square miles</a> of solar in the next two decades.
           </p>
           <p>

@@ -4,7 +4,7 @@
 }
 
 .App-Wrap {
-  padding-bottom: 6.5rem;
+  padding-bottom: 9.5rem;
 }
 
 .panel {
@@ -17,7 +17,7 @@
 }
 
 h3.ui.header {
-  font-size: 1.6em !important;
+  font-size: 1.8em !important;
 }
 
 h2.ui.header {
@@ -25,18 +25,13 @@ h2.ui.header {
 }
 
 div.sub.header {
-  font-size: .8em !important;
+  font-size: 1em !important;
   line-height: 1.7em !important;
-}
-
-ui.text.container {
-  max-width: 1100px!important;
-  line-height: 1.5;
 }
 
 p {
-  font-size: 1.3em;
-  line-height: 1.7em !important;
+  font-size: 1.6em;
+  line-height: 1.9em !important;
 }
 
 #one {

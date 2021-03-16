@@ -1,4 +1,5 @@
-import { Card, Container, Header } from "semantic-ui-react";
+import React from 'react';
+import { Card, Container, Header, Icon, Input } from "semantic-ui-react";
 
 import Footer from "./Footer";
 const members = [
@@ -54,7 +55,7 @@ const members = [
 function About() {
   return (
     <>
-      <Container text>
+      <Container>
         <Header as="h2">👤 Who’s behind this?</Header>
         <p>Nope, we’re not a fake advocacy group set up by Hecate Energy. We're your neighbors.</p>
         <p>
@@ -69,7 +70,22 @@ function About() {
           It’s not somebody else’s problem. It’s going to take all of us. Let’s lead the charge.
         </p>
         <br/>
-      <Header as="h3">Some of our members:</Header>
+      <Header as="h3">☎️ &nbsp; How can I get in touch?</Header>
+      <div>
+        <a target="_blank" href="https://www.facebook.com/friendsofcolumbiasolar">
+          <Icon name="facebook square" size="big" />
+        </a>
+        <a target="_blank" href="mailto:hello@friendsofcolumbiasolar.org">
+          <Icon name="mail" size="big" />
+        </a>
+      <br/> <br/> <br/>
+        <Header as="h3">💌 &nbsp; How can I stay up to date?</Header>
+            <p>Join our mailing list to get updates on Shepherd’s Run, and how to help out.</p>
+            <p><em>Don't worry, we won't send you a million pointless emails. </em></p>
+          <SubscribePage />
+      </div>
+      <br/> <br/>
+      <Header as="h3">🙋‍♀️ &nbsp; Some of our members</Header>
       <Card.Group items={members} />
       </Container>
       <Footer />
@@ -78,3 +94,74 @@ function About() {
 }
 
 export default About;
+
+class SubscribePage extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      emailValue: "",
+      fNameValue: "",
+      lNameValue: "",
+    };
+  }
+
+  render() {
+    return (
+      <form
+        action="https://gmail.us7.list-manage.com/subscribe/post?u=9dd8d566ed37424d61be611a2&amp;id=f5a9152861"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        class="validate"
+        target="_blank"
+        novalidate
+      >
+        <label htmlFor="MERGE0">
+          Email
+          <Input
+            type="email"
+            name="EMAIL"
+            id="MERGE0"
+            value={this.state.emailValue}
+            onChange={(e) => {
+              this.setState({ emailValue: e.target.value });
+            }}
+            autoCapitalize="off"
+            autoCorrect="off"
+          />
+        </label>
+        <label htmlFor="MERGE1">
+          First name
+          <Input
+            type="text"
+            name="FNAME"
+            id="MERGE1"
+            value={this.state.fNameValue}
+            onChange={(e) => {
+              this.setState({ fNameValue: e.target.value });
+            }}
+          />
+        </label>
+        <label htmlFor="MERGE2">
+          Last name
+          <Input
+            type="text"
+            name="LNAME"
+            id="MERGE2"
+            value={this.state.lNameValue}
+            onChange={(e) => {
+              this.setState({ lNameValue: e.target.value });
+            }}
+          />
+        </label>
+        <input
+          type="submit"
+          value="Subscribe"
+          name="subscribe"
+          id="mc-embedded-subscribe"
+          className="button"
+        />
+      </form>
+    );
+  }
+}
