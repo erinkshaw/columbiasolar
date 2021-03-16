@@ -19,7 +19,3 @@ i {
 .icon:hover {
   color: rgba(0,0,0,.6)
 }
-
-.icon:first-child {
-  margin-right: 70px !important;
-}

@@ -3,6 +3,10 @@
   align-items: baseline;
 }
 
-.Learn p {
-  margin-left: 90px !important;
+.content.active {
+  margin-left: 20px;
+}
+
+.Why {
+  margin-top: 40px;
 }
