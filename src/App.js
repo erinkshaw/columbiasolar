@@ -23,7 +23,9 @@ function App() {
   return (
     <div className="App">
       <Nav setTab={setTab} tab={tab} />
-      <Page />
+      <div className="App-Wrap">
+        <Page />
+      </div>
     </div>
   );
 }

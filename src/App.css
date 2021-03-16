@@ -1,6 +1,19 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+}
+
+.App-Wrap {
+  padding-bottom: 6.5rem;
+}
+
 .panel {
   height: 1em;
   width: 100%
+}
+
+.ui input {
+  margin: 0 10px;
 }
 
 #one {

@@ -33,6 +33,10 @@ const members = [
     header: 'Eli Geminder',
     meta: 'Copake Falls, NY',
   },
+  {
+    header: 'Julia Pearson',
+    meta: 'Chatham, NY',
+  },
 ]
 
 function About() {

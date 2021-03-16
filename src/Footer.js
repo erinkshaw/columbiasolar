@@ -4,9 +4,9 @@ import "./Footer.css";
 
 export default function Footer() {
   return (
-    <>
+    <div id="footer">
     <div id="icons">
-      <a href="https://www.facebook.com">
+      <a href="https://www.facebook.com/friendsofcolumbiasolar">
         <Icon name="facebook square" size="big" />
       </a>
       <a href="mailto:hello@friendsofcolumbiasolar.org">
@@ -20,6 +20,6 @@ export default function Footer() {
         <div className="panel" id="four" />
         <div className="panel" id="five" />
       </div>
-    </>
+    </div>
   );
 }

@@ -29,6 +29,30 @@ button {
   font-weight: 500;
 }
 
+.button {
+  appearance: none;
+  box-sizing: border-box;
+  display: inline-block;
+  font-size: 14px;
+  box-shadow: none;
+  position: relative;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  height: 35px;
+  width: 180px;
+  border-radius: 100px;
+  border-width: 1px;
+  border-style: solid;
+  border-image: initial;
+  outline: none;
+  transition: all 120ms ease-in 0s;
+  overflow: hidden;
+  background: #FAA220;
+  border-color: transparent;
+  padding: 0px 32px;
+  font-weight: 500;
+}
+
 button:hover {
   background-color: rgb(243, 139, 0);;
 }
