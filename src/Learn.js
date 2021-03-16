@@ -21,19 +21,16 @@ const Learn = () => (
       <Accordion panels={reasonPanels} />
       <Segment>
         <p>
-          <b>A note on project impacts</b>: to comply with New York state
-          regulations, Hecate is studying how the solar farm will affect local
-          agriculture, birds, water quality, property values, and dozens of
-          other topics.
+          <b>Note</b>: to comply with New York State regulations, 
+          Hecate is studying how the solar farm will affect agriculture, wildlife, 
+          property values, and dozens of other topics. 
         </p>
         <p>
-          The studies are ongoing, and expected to be published this summer.
-          We’ll know a lot more about the project’s impact then, and this page
-          will be updated accordingly.
+          The studies will be published this summer. We'll now much more then. 
         </p>
         <p>
-          Until then, this page is based on academic studies, evidence from
-          other solar projects, and local knowledge about the community.
+          For now, we provide evidence from academic studies, other solar 
+          projects, and local community knowledge.
         </p>
       </Segment>
     </Container>

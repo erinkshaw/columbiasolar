@@ -16,6 +16,29 @@
   margin: 0 10px;
 }
 
+h3.ui.header {
+  font-size: 1.6em !important;
+}
+
+h2.ui.header {
+  font-size: 2.3em !important;
+}
+
+div.sub.header {
+  font-size: .8em !important;
+  line-height: 1.7em !important;
+}
+
+ui.text.container {
+  max-width: 1100px!important;
+  line-height: 1.5;
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1.7em !important;
+}
+
 #one {
   background-color: #FFEACC;
 }

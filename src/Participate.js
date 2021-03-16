@@ -25,8 +25,7 @@ export default function Participate() {
           represents real climate action, and how it can help Copake reduce taxes, slash
           electricity bills, and restore farmland.
         </p>
-        <p>To receive a yard sign, simply give us your email. We'll send you one!</p>
-          <SubscribePage />
+        <p>To receive a yard sign, just email us at <b>hello@friendsofcolumbiasolar.org</b>. We'll send you one!</p>
         <br/>
         <Header as="h3">🏛️ Contact the State and Town</Header>
           <p>

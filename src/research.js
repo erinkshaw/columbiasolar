@@ -776,7 +776,7 @@ export const REASONS = [
     title: {
       content: (
         <Header as="h3">
-          🔨 If we can’t shrink it, can we at least break it up and scatter it around?
+          🔨 If we can’t shrink it, can we break it up and scatter it around?
           <Header.Subheader>
             Small + Far = Too Expensive = More Fossil Fuels
           </Header.Subheader>

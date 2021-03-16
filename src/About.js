@@ -14,24 +14,36 @@ const members = [
     description: 'Retired Teacher, Board Member of Harlem Valley Rail Trail, Copake Climate Smart Coordinator',
   },
   {
-    header: 'Erin Shaw',
-    meta: 'Copake, NY',
+    header: 'Peggy Lewis',
+    description: 'Retired School Conselor',
+    meta: 'Taconic Shores in Copake, NY',
+  },
+  {
+    header: 'Eli Geminder',
+    description: 'Metalwork Designer',
+    meta: 'Copake Falls, NY',
+  },
+  {
+    header: 'Roxann Slate',
+    description: 'Glass Artisam',
+    meta: 'Copake Falls, NY',
+  },
+  {
+    header: 'Gary Lewis',
+    description: 'Corporate Attorney',
+    meta: 'Taconic Shores in Copake, NY',
   },
   {
     header: 'Elayne Dix',
     meta: 'Copake, NY',
   },
   {
-    header: 'Amanda Pickering',
+    header: 'Erin Shaw',
     meta: 'Copake, NY',
   },
   {
-    header: 'Roxann Slate',
-    meta: 'Copake Falls, NY',
-  },
-  {
-    header: 'Eli Geminder',
-    meta: 'Copake Falls, NY',
+    header: 'Amanda Pickering',
+    meta: 'Copake, NY',
   },
   {
     header: 'Julia Pearson',
@@ -57,7 +69,7 @@ function About() {
           It’s not somebody else’s problem. It’s going to take all of us. Let’s lead the charge.
         </p>
         <br/>
-      <Header as="h2">Some of our members:</Header>
+      <Header as="h3">Some of our members:</Header>
       <Card.Group items={members} />
       </Container>
       <Footer />
