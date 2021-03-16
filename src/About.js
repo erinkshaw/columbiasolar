@@ -56,6 +56,7 @@ function About() {
         <p>
           It’s not somebody else’s problem. It’s going to take all of us. Let’s lead the charge.
         </p>
+        <br/>
       <Header as="h2">Some of our members:</Header>
       <Card.Group items={members} />
       </Container>

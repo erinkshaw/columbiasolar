@@ -33,7 +33,7 @@ const Learn = () => (
       </Segment>
       <Accordion panels={factsPanels} />
     </Container>
-    <Container text className="Why">
+    <Container text className="Learn">
       <Header as="h2">🤔 But can’t we instead . . .</Header>
       <Accordion panels={reasonPanels} />
     </Container>

@@ -6,8 +6,8 @@ import "./Nav.css";
 function Nav({ tab, setTab }) {
   const TABS = {
     home: 'Home',
-    about: 'About Us',
     learn: 'Learn More',
+    about: 'About Us',
     participate: 'Get Involved'
   };
   return (

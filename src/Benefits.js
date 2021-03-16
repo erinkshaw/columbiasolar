@@ -3,12 +3,14 @@ import { Container, Header } from 'semantic-ui-react'
 const Benefits = () => {
   return (
     <Container text>
+      <br/>
       <Header as="h3">💸 Lower taxes</Header>
       <p>
         The solar farm will generate at least <a href="http://www.shepherdsrunsolar.com/news/2020/02/hecate-energy-announces-shepherds-run-solar-for-columbia-county-project-brings-57-million-benefits-package--economic-boost-to-region/">
         $5 million to $7 million</a> in property taxes. 
         That's enough money for the Town of Copake to cut every homeowner’s property taxes ー for the next 20 years.
       </p>
+      <br/>
       <Header as="h3">🔌 Cheaper power</Header>
       <p>
       Columbia County pulls <a href="https://docs.google.com/spreadsheets/d/1qtw5G3kuebIgT5yb49TUsAQXfJMZIwxXqrZiWDonzzI/edit#gid=0">
@@ -16,6 +18,7 @@ const Benefits = () => {
       By generating our own electricity, and <a href="https://www.hudsonvalleyenergy.org/community-choice-aggregation">
       buying it directly</a> from the solar company, we could lower everyone’s bills.
       </p>
+      <br/>
       <Header as="h3">🐝 Restored farmland</Header>
       <p>
         We all love Copake’s rural charm, and we all want to conserve it.
@@ -30,6 +33,7 @@ const Benefits = () => {
         nurture</a> bees, butterflies, and other pollinators
         that farms depend on.
       </p>
+      <br/>
       <Header as="h3">✊ Real climate action</Header>
       <p>
         Devastating heat waves, floods, and hurricanes are <a href="https://nca2014.globalchange.gov/report/regions/northeast#statement-16958">
