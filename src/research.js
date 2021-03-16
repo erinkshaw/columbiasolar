@@ -162,11 +162,18 @@ export const FACTS = [
           <p>
             <strong>Do the panels hurt birds? </strong>
           </p>
-          <p>Solar towers do harm birds, but that’s a totally different technology. </p>
+          <p>
+            <Image href="https://codahosted.io/docs/HgV-_Qphpe/blobs/bl-L8LkxJwTnM/99d9dd1bdba244033f02542abf0128816becf8eb180e44419597db8ac828344a1c63d1c06856766add992903c60b3ffc902121d5aa1ca9e611a8eaeaf70588ca90d689a7b500d0d7505533a55d444439e7658b99674a0565ea0dc29042156f02211ffbc4"></Image>
+            <a href="https://www.audubon.org/conservation/climate/solar">Audubon</a>
+          </p>
+          <p><a href="https://en.wikipedia.org/wiki/Solar_power_tower#Environmental_concerns">
+            Solar towers</a> do harm birds, but that’s a totally different technology. </p>
           <p>Potovoltaic solar panels probably don’t. Based on experiences at a single 
-            solar farm in the water-poor Southwest, scientists proposed that water-loving 
+            solar farm in the water-poor Southwest, <a href="https://www.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
+              scientists proposed</a> that water-loving 
             birds may mistake the panels for lakes and crash into them. </p>
-          <p>However, this “lake effect” hypothesis has not been proven. Anecdotal 
+          <p>However, this “lake effect” hypothesis has <a href="https://beta.documentcloud.org/documents/20489209-kosciuch-et-al-a-summary-of-bird-mortality-at-photovoltaic-utility-scale-solar-facilities-in-the-southwestern-us#document/p2/a2018981">
+            not been proven</a>. Anecdotal 
             evidence from solar farms in the water-rich Northeast suggests little to
              no lake effect in the region. Though we won’t know for sure until more 
              studies are done.</p>
@@ -177,14 +184,14 @@ export const FACTS = [
             Shepherd’s Run will help our avian friends in two ways:
             <ol>
               <li>
-                By housing native plants that support birds, and keeping
-                predators out, the solar farm will create a sanctuary for them.
+                By housing native plants that <a href="https://beta.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
+                support birds</a>, and keeping predators out, the solar farm will create a sanctuary for them.
               </li>
               <li>
-                Two-thirds of American birds are facing extinction from climate
-                change. Large solar farms that take a real bite out of the
+                Two-thirds of American birds are <a href="https://www.audubon.org/climate/survivalbydegrees">
+                facing extinction</a> from climate change. Large solar farms that take a real bite out of the
                 problem are essential for protecting them. That’s why the
-                National Audubon Society supports grid-scale solar.
+                National Audubon Society <a href="https://www.audubon.org/news/solar-power-and-birds">supports grid-scale solar</a>.
               </li>
             </ol>
           </p>
@@ -206,21 +213,23 @@ export const FACTS = [
             be affected:
             <ul>
               <li>
-                Bald eagles nest in cliffs and trees near large lakes, and eat
+                Bald eagles <a href="https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/Bald-Eagle#:~:text=They%20prefer%20lakes%20and%20reservoirs,all%20types%20of%20water%20habitats.">
+                nest</a> in cliffs and trees near large lakes, and eat
                 mostly fish. They have been spotted in Copake, but they don’t 
                 depend on bodies of water, not fields.
               </li>
               <li>
-                Peregrine falcons nest on bridges, buildings, and cliffs — not
+                Peregrine falcons <a href="https://guides.nynhp.org/peregrine-falcon/">nest</a> on bridges, buildings, and cliffs — not
                 in fields. They are rarely seen in the Hudson Valley, as there
-                are less than 100 pairs left in the state.
+                are less than <a href="https://guides.nynhp.org/peregrine-falcon/">100 pairs</a> left in the state.
               </li>
               <li>
-                Northern Harriers nest in prairies - which the corn fields have
+                Northern Harriers <a href="https://tpwd.texas.gov/huntwild/wild/species/harrier/">nest</a> 
+                in prairies - which the corn fields have
                 already eliminated and the solar farm will partially restore -
                 and in wetlands - which the solar farm will preserve. Moreover,
-                they are infrequently seen in Columbia County because they
-                usually breed further upstate.
+                they are <a href="https://www.dec.ny.gov/animals/7090.html">infrequently seen</a> 
+                 in Columbia County because they usually breed further upstate.
               </li>
             </ul>
           </p>
@@ -253,8 +262,9 @@ export const FACTS = [
             as well as deer, bears, and other large animals — will need to go around the fence. 
           </p>
           <p>
-            Local animals already have to do this with the Copake Agricultural Center’s 192 
-            fenced-in acres in the middle of town, or the 800 fenced-in acres at the Shagbark 
+            Local animals already have to do this with the Copake Agricultural Center’s <a href="https://www.nefarmaccess.org/the-ag-center-model/project-five-5hher">
+              192 fenced-in acres</a> in the middle of town, or the <a href="https://www.nurserydirect.com/growers/growers.html?growerid=14">
+            800 fenced-in acres</a> at the Shagbark 
             tree farm. However, the 360-acre project will be split into four separate enclosures, 
             each of which will be smaller than those properties.
           </p>
@@ -277,7 +287,7 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-          Right now, we get around 85% of our electricity from neighboring counties! If we produce our 
+          On the contrary. Right now, we get around <a href="https://docs.google.com/spreadsheets/d/1qtw5G3kuebIgT5yb49TUsAQXfJMZIwxXqrZiWDonzzI/edit?usp=sharing">85% of our electricity</a> from neighboring counties! If we produce our 
           own power, the vast majority of it will stay in the county.
           </p>
           <p>Why is that? Because power flows to the closest place it’s needed. Our community needs a 
@@ -303,7 +313,8 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            Hecate has committed to minimizing the impact on views as much as possible. 
+            Hecate has <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020'">
+              committed</a> to minimizing the impact on views as much as possible. 
             To that end, they are currently surveying the area to figure out where to 
             add trees and where to remove panels. 
           </p> 
@@ -311,7 +322,9 @@ export const FACTS = [
             They are planning an open house in April 2021 to present and visualize this new design. We’ll know much more about the visual impacts then.
           </p>
           <p>
-            Nevertheless, it’s useful to keep things in perspective: only .44 of Copake’s 42.02 square miles will be covered in panels. This is just 1% of our town.
+            Nevertheless, it’s useful to keep things in perspective: only <a href="https://www.google.com/search?q=280+acres+in+square+miles&oq=280+acres+in+square+miles&aqs=chrome.0.69i59.5655j0j7&sourceid=chrome&ie=UTF-8">
+              .44</a> of Copake’s <a href="https://en.wikipedia.org/wiki/Copake,_New_York#cite_note-CenPopGazetteer2016-1">
+                42.02 square miles</a> will be covered in panels. That's just 1% of our town.
           </p>
         </Container>
       ),
@@ -370,14 +383,16 @@ export const FACTS = [
           </p>
           <b>Findings: no impact on home sales in rural areas</b>
           <p>
-          The only good academic study (Gaur & Lang, 2020) we could find measures 
+          The only <a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
+            good academic study</a> (Gaur & Lang, 2020) we could find measures 
           the impact of 204 solar farms in Massachusetts and Rhode Island on 400k home sales. 
           The conclusion:
           </p>
           <p>
             <em>
               “Results suggest that houses within one mile depreciate 1.7%
-              following construction of a solar array.” (p. 2)
+              following construction of a solar array.” (<a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p2/a2022756">
+                p. 2</a>)
             </em>
           </p>
           <p>
@@ -389,7 +404,8 @@ export const FACTS = [
               “These results suggest that the treatment effect in rural areas is
               <b>effectively zero</b> (a statistically insignificant 0.1%), and that
               the negative externalities of solar arrays are only occurring in
-              non-rural areas. These findings go against our intuition.” (p. 17)
+              non-rural areas. These findings go against our intuition.” (<a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island#document/p17/a2022757">
+                p. 17</a>)
             </em>
           </p>
           <p>
@@ -424,22 +440,29 @@ export const FACTS = [
               interest in our area will continue to grow if many people keep working remotely after the pandemic.
             </p>
             <p><i>
-              * We found only one study by economists that actually measured the impact of solar farms
+              * We found only <a href="https://www.documentcloud.org/documents/20514174-gaur-lang-property-value-impact-of-commercial-scale-solar-energy-in-massachusetts-and-rhode-island">
+                one study</a> by economists that actually measured the impact of solar farms
                on nearby home sales. The study used real data on 419,000 home sales, and used statistical
                 models to compare the prices of homes near solar farms with those of similar homes elsewhere. 
                 This is the gold standard for quantifying the effect of disamenities on property values.
             </i></p>
             <p><i>
-              All other studies ask a handful of property assessors for their opinion, and most are funded 
-              by the solar industry. One often-cited study from the LBJ School of Public Affairs relies on 
-              surveys from just 37 assessors. This is a tiny sample. And you want to answer this question by
+              <a href="https://www.southripleysolar.com/wp-content/uploads/2020/09/Kirkland-Grandy-Solar-Impact-Study.pdf">All</a> 
+              <a href="https://www.oglecounty.org/document_center/planning%20&%20zoning/Solar%20Ad%20Hoc%20Committee/PV%20Impact%20Studies/CR%20-%20SunVest%20Solar%20-%20Solar%20Farm%20Impact%20Study%20(Report%20Date%205-30-2018).pdf">
+                other</a> <a href="https://www.innergex.com/wp-content/uploads/2020/05/CohnReznick-Proposed-Paeahu-Solar-Property-Value-Impact-Study_Draft_May-2020.pdf">
+                  studies</a> ask a handful of property assessors for their opinion, and most are funded 
+              by the solar industry. One <a href="https://emp.lbl.gov/sites/default/files/property-value_impacts_near_utility-scale_solar_installations.pdf">
+                often-cited study</a> from the LBJ School of Public Affairs relies on 
+              surveys from <a href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations">
+                just 37 assessors</a>. This is a tiny sample. And you want to answer this question by
               analyzing hard data on thousands of home sales, not by asking a couple dozen assessors for 
               their subjective opinion.
             </i></p> 
             <p><i>
               Despite those flaws, the study concludes: “Results from our survey of
               home assessors show that the majority of respondents believe that proximity to a solar installation
-              either had no impact or positive impact on home values (p. 23)
+              either had no impact or positive impact on home values (<a href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations#document/p13/a2022758">
+                p. 23</a>)
               </i></p>
         </Container>
       ),
@@ -461,10 +484,13 @@ export const FACTS = [
       content: (
         <Container>
           <p>
-            Solar panels very rarely start fires. We know this because, even though the US 
+            Solar panels <a href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
+              very rarely start fires</a>. We know this because, even though the US 
             doesn’t track solar panel fires, other countries do: In the past 20 years, 
-            only 120 of Germany’s 2 million solar installations stared a fire. In Japan, 
-            only 127 of 2.4 million did. That’s only .006% of all solar systems.
+            only <a href="https://beta.documentcloud.org/documents/20509670-fraunhofer-recent-facts-about-photovoltaics-in-germany#document/p84/a2021887">
+              120 of Germany’s 2 million</a> solar installations stared a fire. In Japan, 
+            only <a href="https://pv-magazine-usa.com/2019/08/22/there-are-solar-power-fires-per-year/">
+              127 of 2.4 million</a> did. That’s only .006% of all solar systems.
           </p>
           <p>
             Moreover, Hecate is required to pay special district property taxes to the 
@@ -491,13 +517,15 @@ export const FACTS = [
         <Container>
           <p>
             In New York State, if you want to build a solar farm less than 25MW, 
-            the town alone can approve or deny the project. If it’s greater than 25MW, 
+            the town alone <a href="https://beta.documentcloud.org/documents/20509723-nyserda-seqr-for-large-scale-solar#document/p11/a2021910">can approve or deny</a> the project. If it’s greater than 25MW, 
             however, a state siting board - made up of 5 state appointees and 2 
-            local ones - must approve it. 
+            local ones - <a href="https://www.nyserda.ny.gov/All-Programs/Programs/Clean-Energy-Siting/Siting-for-Large-Scale-Renewables">
+              must approve it</a>. 
           </p>
           <p>
             Shepherd’s Run is 60MW, so Hecate has no option but to go through the 
-            State-level article 10 siting process (or the new 94C process).
+            State-level <a href="http://blogs.law.columbia.edu/climatechange/2011/06/28/the-power-new-york-act-of-2011-reauthorizes-and-modernizes-article-x-of-the-public-service-law/">
+              article 10 siting process</a> (or the new 94C process).
             They can negotiate with the Town of Copake, but ultimately the 
             siting board still has to approve.
           </p>
@@ -508,7 +536,8 @@ export const FACTS = [
           </p>
           <p>
             At that point, Shepherd’s Run is legal even though it doesn’t comply
-             with local zoning rules, because state law can supersede local law in
+             with local zoning rules, because <a href="https://beta.documentcloud.org/documents/20485437-nys-article-10-regulations#document/p95/a2021904">
+               state law can supersede local law</a> in
               New York when it comes to solar farm siting.
           </p>
         </Container>
@@ -537,7 +566,22 @@ export const REASONS = [
             under 2 degrees Celsius of warming and avoid irreversible
             catastrophe.
           </p>
-          We need to build around 360 square miles of solar in the next 15 to 20 years to reach 100% clean energy in New York State, according to solar power expert Dr. Richard Perez of SUNY Albany. If we put panels on half of all buildings and parking lots in in the state, that would amount to only 160 square miles. That’s not even halfway to 360. 
+          <p>
+            We need to build around <a href="https://youtu.be/OUpgDsfYhec?t=921">
+              360 square miles</a> of solar in the next 15 to 20 years 
+            to reach 100% clean energy in New York State, according to solar power expert 
+            Dr. Richard Perez of SUNY Albany. If we put panels on half of all buildings 
+            and parking lots in in the state, that would amount to only 160 square miles. 
+            That’s not even halfway to 360.
+          </p>
+          <p>
+            And even that goal seems unrealistic, because it would require convincing 
+            every other New Yorker who owns property to install rooftop panels in the 
+            next 15 years.
+          </p>
+          <p>
+            Rooftop solar is great, and we need as much of it as possible. But it’s not enough to solve the climate crisis.
+          </p>
         </Container>
       ),
     },
@@ -549,7 +593,7 @@ export const REASONS = [
           🏭 Okay, so we need a solar farm. But can’t we put it on a landfill,
           parking lot, or industrial site?
           <Header.Subheader>
-            It makes the project too expensive to compete with fossil fuels.
+          These projects are often too expensive to compete with fossil fuels, and there aren’t nearly enough brownfields in the state.
           </Header.Subheader>
         </Header>
       ),
@@ -558,15 +602,43 @@ export const REASONS = [
       content: (
         <Container>
           <p>
-            This is a great idea, but there’s a catch. If we want to beat
-            climate change, we need to quickly build a massive amount of solar
-            and other renewable energy. To do that, solar energy needs to be
-            cheaper than natural gas, the fossil fuel that generates 30% of New
-            York’s electricity. Brownfield development is significantly more
-            expensive: Landfills are unstable and full of methane, parking-lot
-            pavement must be removed, industrial sites have to be cleaned up.
-            This drives up the price and usually makes solar more expensive than
-            natural gas, which is a deal-breaker.
+          This is a great idea, but there are two problems: cost and space.
+          </p>
+          <p>💸  <b>Brownfield solar is expensive</b></p><br/>
+          <p>
+            First, to build the massive amount of solar we need, it needs to be 
+            cheaper than natural gas, the fossil fuel that generates 30% of New York’s 
+            electricity. Otherwise, solar developers can’t compete, and projects 
+            won’t get built.
+          </p>
+          <p>
+            And there’s the rub. Building on a brownfield is much more expensive than building on farmland:
+            <ul>
+              <li>Landfills can be up to <a href="https://www.solarpowerworldonline.com/2019/07/how-does-solar-on-capped-landfills-work/">
+                20% more expensive</a> to build, because the ground is 
+                unstable and full of greenhouse gases.</li>
+              <li>Solar parking lots are a clever use of space, but because of their complicated
+                 construction, they produce electricity that’s <a href="https://solarbuildermag.com/featured/solar-carport-installation-construction-best-practices/">
+                   4-8x</a> more expensive than utility-scale solar.</li>
+              <li>Industrial sites have to be cleared of above-ground structures and 
+                require specialized panels that don’t penetrate the ground to avoid disturbing
+                 below-ground contaminants. Every site is different, which also adds to cost.</li>
+             </ul>
+            <p><b>There aren’t nearly enough brownfields</b></p>
+            <p>
+              All of this drives up the price and can make brownfield solar more expensive than 
+              natural gas, which is a deal-breaker. But even if it was cheap, there aren’t anywhere
+               close to enough brownfields out there.
+            </p>
+            <p>
+            There are <a href="https://youtu.be/OUpgDsfYhec?t=1408">24 square miles</a> of parking lots in New York,
+             and <a href="https://youtu.be/OUpgDsfYhec?t=1394">29 square miles</a> of landfills 
+            and industrial areas. That’s only <b>15%</b> of the <a href="https://youtu.be/OUpgDsfYhec?t=921">
+              360 square miles</a> of solar we need to build in the next 15 to 20 years. 
+            </p>
+            <p>
+              So while brownfield projects are worth exploring, they unfortunately cannot substitute for rural solar farms.
+            </p>
           </p>
         </Container>
       ),
@@ -579,7 +651,7 @@ export const REASONS = [
           📍So it has to be on a greenfield, but why does it have to be in
           Craryville?
           <Header.Subheader>
-            To connect to Craryville’s substation.
+            To connect to the electric grid through Craryville’s substation.
           </Header.Subheader>
         </Header>
       ),
@@ -588,9 +660,7 @@ export const REASONS = [
       content: (
         <Container>
           <p>
-            To hook into the grid, solar farms need to connect to a substation.
-            Substations are often in towns, so finding one by farmland and with
-            interested landowners isn’t easy.
+          To hook into the grid, solar farms need to connect to a substation. Substations are often in towns, so finding one by farmland and with interested landowners isn’t so simple. The Craryville substation has both.
           </p>
         </Container>
       ),
@@ -614,14 +684,17 @@ export const REASONS = [
         <Container>
           <p>
             Another excellent idea! But if we’re serious about fighting climate
-            change, we have to care about the cost of solar projects. The
-            further we place the solar farm from the substation, the more
-            transmission line we need to run. This is not only unsightly, it’s
-            surprisingly expensive. Insert stat here****
+            change, we need to be concerned about the cost of solar projects.
+          </p> 
+          <p>
+            The further we place the solar farm from the substation, the more
+            transmission line we need to run. Not only is this unsightly, 
+            it’s surprisingly expensive: between <a href="https://www.transmissionhub.com/articles/2012/10/wecc-report-building-transmission-in-the-west-costs-1m-to-3m-mile.html">
+              1 to 3 million dollars per mile</a>. 
           </p>
           <p>
-            So the project needs to be in Craryville or the numbers just don’t
-            add up, and we get more fossil fuels.
+          So the project needs to be close to the Craryville substation or the project 
+          doesn’t make sense financially, and we’ll end up with more fossil fuel power plants.
           </p>
         </Container>
       ),
@@ -633,8 +706,7 @@ export const REASONS = [
         <Header as="h3">
           🤏 Fine, it has to be there. Why can’t it be smaller?
           <Header.Subheader>
-            It has already been cut down twice! But it can’t be 10 acres, or we
-            won’t make a dent on climate change.
+            It can be, and has already been cut down! But it can’t be 10 acres, or we won’t make a dent on climate change.
           </Header.Subheader>
         </Header>
       ),
@@ -643,36 +715,66 @@ export const REASONS = [
       content: (
         <Container>
           <p>
-            It can be, up to a point! In fact, in response to community
-            concerns, Hecate has already cut the project down twice: from 500
-            acres to 360, and from 360 to TK.
+            In response to community concerns, Hecate has already cut the project down by 
+            nearly 30%, from 500 acres to 360 acres, of which <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020">
+              only 280 acres</a> will be covered in panels.
+          </p>
+          <p>But Shepherd’s Runs still needs to be hundreds of acres, not dozens. For two reasons: cost and scale.</p>
+          <p><b>💰 Small solar doesn’t beat fossil fuels</b></p>
+          <p>
+            The smaller the project is, the more expensive the electricity it produces. 
+            Utility-scale solar projects are cheaper than natural gas plants, but 
+            10 acre community solar projects <a href="https://www.lazard.com/perspective/levelized-cost-of-energy-and-levelized-cost-of-storage-2020/">
+              are more expensive</a>.
           </p>
           <p>
-             But it still needs to be hundreds
-            of acres, not dozens. We just can’t solve the climate problem 10
-            acres at a time. The problem is too massive, and we’re out of time.
+            <b>💯 The state needs hundreds of Shepherd’s Runs</b>
           </p>
           <p>
-            The idea that Shepherd’s Run is “too big” for Copake is appealing.
-            “We’re a small town, the solar farms should be small too!”
+            At first glance, the idea that Shepherd’s Run is “too big” for Copake makes a lot of sense: 
+            “we’re a small town, the solar farms should be small too!”
           </p>
           <p>
-            But consider this: If all the solar farms we have to build in New York
-            were the size of Shepherd’s Run, we’d need to build hundreds of
-            them. In just one or two decades.
+            But consider this. Shepherd’s Run has .44 square miles of panels. We need build <a href="https://youtu.be/OUpgDsfYhec?t=921">
+              360 square miles</a> of solar in the next two decades.
           </p>
           <p>
-            {/* <GRAPHIC OF HUNDREDS OF DOTS ON THE NYS MAP> */}
-            That’s already a <em>huge</em> undertaking.
+            If we put half the panels in cities, and half in the country, we’d still need to 
+            uild <b>411</b> solar farms the size of Shepherd’s Run to get the job done. <b>44%</b> of New York’s
+             932 towns would have a big solar farms!
           </p>
           <p>
-            But if the farms are all 10 acres, we’ll need thousands. And because of all the regulations solar farms need to satisfy, all projects take years to develop, no matter their size.
+            That’s already a huge undertaking. But if the solar farms all have to be 10 acres,
+            the maximum size Copake allows per lot, we’ll need to build 11,520! Each town would
+            end up with 12 farms. And because of all the regulations solar farms need to satisfy,
+             all projects take years to get approval, even small ones. There isn’t enough time 
+             to blanket the New York in 10 acre projects.
           </p>
           <p>
-            So Shepherd’s Run isn’t actually too big. It’s just right. At 60MW, it’s actually one of the smallest grid-scale solar farms being planned in New York state!
+            So Shepherd’s Run isn’t actually too big. It’s just right. 
+            If you’re serious about fighting climate change, this is what a real climate solution looks like. 
           </p>
+        </Container>
+      ),
+    },
+  },
+  {
+    title: {
+      content: (
+        <Header as="h3">
+          🔨 If we can’t shrink it, can we at least break it up and scatter it around?
+          <Header.Subheader>
+          Small + Far = Too Expensive = More Fossil Fuels
+          </Header.Subheader>
+        </Header>
+      ),
+    },
+    content: {
+      content: (
+        <Container>
           <p>
-             If you’re pro-climate, this is what a real climate solution really looks like. We’re finally doing something about global warming: Serious projects like Shepherd’s Run are about to be built all over New York state, and not a moment too soon.
+          That would be an elegant solution! But unfortunately, we run into right into the 
+          last two problems we encountered: Small projects far from substations are too expensive to beat fossil fuels.
           </p>
         </Container>
       ),
