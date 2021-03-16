@@ -5,13 +5,13 @@ const members = [
   {
     header: 'Juan-Pablo Velez',
     description:
-      'Software Engineer / Former Journalist / Co-Founder of Chi Hack Night / Climate Activist',
+      'Software Engineer, Climate Activist',
     meta: 'Copake, NY',
   },
   {
     header: 'Dan Haas',
     meta: 'Copake, NY',
-    description: 'Retired Teacher / Copake Climate Smart Coordinator / Member Columbia Chapter of Citizens Climate Lobby / Board Member Harlem Valley Rail Trail Association',
+    description: 'Retired Teacher, Board Member of Harlem Valley Rail Trail, Copake Climate Smart Coordinator',
   },
   {
     header: 'Erin Shaw',
@@ -44,20 +44,17 @@ function About() {
     <>
       <Container text>
         <Header as="h2">👤 Who’s behind this?</Header>
-        <p>Nope, we’re not an Astroturf group set up by Hecate Energy.</p>
+        <p>Nope, we’re not a fake advocacy group set up by Hecate Energy. We're your neighbors.</p>
         <p>
-          We’re your neighbors. We feel that a lot of outdated and false
-          information about Shepherd’s Run has been circulating in the
-          community. We want to make sure the project happens, and we want to
-          make sure it benefits our town as much as possible.
+          We want Shepherd's Run to happen, we want it to be 60MW, and we want it to benefit Copake and Columbia County 
+          as much as possible.
         </p>
         <p>
           Our country has spent the past 30 years dragging its feet on climate
           change. We’ve run out of time and need massive, realistic action now.
         </p>
         <p>
-          It’s not somebody else’s problem. It’s going to take all of us. So
-          let’s lead the charge.
+          It’s not somebody else’s problem. It’s going to take all of us. Let’s lead the charge.
         </p>
       <Header as="h2">Some of our members:</Header>
       <Card.Group items={members} />
