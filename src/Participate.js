@@ -7,22 +7,55 @@ export default function Participate() {
   return (
     <>
       <Container>
-        <Header as="h2">🌻 How can you get involved?</Header>
-        <Header as="h3">💌 Join our mailing list</Header>
-          <Header as="h4">
-            Receive important updates on solar in Columbia County and learn how
-            to get involved
-          </Header>
+        <Header as="h2">🌻 How can I help Shepherd's Run?</Header>
+        <p>
+          Opponents to Shepherd's Run have been very visible in our community,
+          but supporters have not. We need to turn that around.
+        </p>
+        <p>
+          Live in Columbia County? The most helpful thing you can do is to tell your <b>neighbors</b> and <b>New York State</b> that you support 
+          the project.</p>
+        <p>
+          Live in Copake? Also voice your support to the <b>Town</b>.
+        </p>
+        <br/>
+        <Header as="h3">🏠 Yard Signs for Neighbors</Header> 
+        <p>
+          Yard signs are critical for spreading awareness about why Shepherd's Run
+          represents real climate action, and how it can help Copake reduce taxes, slash
+          electricity bills, and restore farmland.
+        </p>
+        <p>To receive a yard sign, simply give us your email. We'll send you one!</p>
           <SubscribePage />
-
-          <Header as="h3">
-            Submit a comment of support to the Public Service Commission
-          </Header>
+        <br/>
+        <Header as="h3">🏛️ Contact the State and Town</Header>
           <p>
-            <a href="http://documents.dps.ny.gov/public/Comments/PublicComments.aspx?MatterCaseNo=20-F-0048">
-              Here
-            </a>
+            Our leaders need to hear from supporters! 
           </p>
+          <p><b>Step</b> 1️⃣</p>
+          <p>Write a couple paragraphs about why you support the project.</p>
+          <p>You might mention how it will <a href="">benefit Copake</a>, and how our State needs
+          hundreds of large solar farms to solve the climate crisis. Include what town you live in.</p> 
+          <p>
+          <b>Step</b> 2️⃣
+           <ul>
+             <li>
+             <a href="http://documents.dps.ny.gov/public/Comments/PublicComments.aspx?MatterCaseNo=20-F-0048">
+            </a>Submit your message to New York State Public Service Commission. The siting board that decides
+               whether to grant the permit will take this into consideration.
+             </li>
+             <li>Email your message to Copake's State Legislators: Senator Daphne Jordan (jordan@nysenate.gov) and Assemblymember Didi Barrett (barrettd@nyassembly.gov)</li>
+             <li>Email your message to Copake's Town Board, if you live in Copake: Supervisor Jeanne E. Metler (Copakesupervisor@fairpoint.net) and Deputy Supervisor Richard Wolf (Copakedepsupervisor@fairpoint.net)</li>
+           </ul>
+        </p>
+        <br/>
+        <br/>
+        <Header as="h2">💌 How can I stay in touch?</Header>
+          <Header as="h4">
+            Join our mailing list to get updates on Shepherd’s Run, and how to help out.
+          </Header> 
+            <p><i>Don't worry, we won't send you a million pointless emails. </i></p>
+          <SubscribePage />
       </Container>
       <Footer />
     </>

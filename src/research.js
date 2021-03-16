@@ -355,8 +355,8 @@ export const FACTS = [
         <Container>
           <p>
             You can’t see the panels at all from Taconic State Park or the Catamount Ski
-            resort, where most tourists go. Or from Hillsdale, Copake, Copake Lake, or
-            Copake Falls. So many tourists won’t see the panels at all.
+            resort, where most tourists go. Or from Hillsdale, Copake, Copake Lake,
+            Copake Falls, or West Copake. So many tourists won’t see the panels at all.
           </p>
           <p>
             Most tourists that <i>do</i> see the panels will only glimpse them on Route 23,

@@ -29,7 +29,7 @@ const Benefits = () => {
       <p> By surrounding panels with <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
         native plants</a>, the solar farm can
         <a href="https://www.documentcloud.org/documents/20485428-culman-et-al-long-term-impacts-of-high-input-annual-cropping-and-unfertilized-perennial-grass-production-on-soil-properties-and-belowground-food-webs-in-kansas-usa#document/p9/a2018988">
-        restore</a> the soil and <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
+        &nbsp;restore</a> the soil and <a href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p11/a2018868">
         nurture</a> bees, butterflies, and other pollinators
         that farms depend on.
       </p>
