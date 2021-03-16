@@ -1,0 +1,21 @@
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+#icons {
+  display: flex;
+  justify-content: center;
+  top: 50px;
+  position: relative;
+  align-items: baseline;
+}
+
+i {
+  color: black;
+}
+
+.icon:hover {
+  color: rgba(0,0,0,.6)
+}
