@@ -115,7 +115,7 @@ export const FACTS = [
             <a
               rel="noreferrer"
               target="_blank"
-              href="http:/https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p6/a2019018"
+              href="https://beta.documentcloud.org/documents/20489386-walston-et-al-modeling-the-ecosystem-services-of-native-vegetation-management-practices-at-solar-energy-facilities-in-the-midwestern-united-state#document/p6/a2019018"
             >
               retain 20% more water
             </a>{" "}
