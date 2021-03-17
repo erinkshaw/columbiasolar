@@ -34,10 +34,12 @@ function Home() {
   return (
     <>
       <Container>
-        <Header as="h2">
+        <Header as="h2" size="huge">
           Shepherd’s Run Solar Farm: Great for Copake, Great for Climate
           <Header.Subheader>
-            Columbia County residents united in support of Shepherd’s Run.
+            <p>
+              Columbia County residents united in support of Shepherd’s Run.
+            </p>
           </Header.Subheader>
         </Header>
         <Benefits />

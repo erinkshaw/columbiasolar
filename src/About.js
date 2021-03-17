@@ -1,92 +1,117 @@
-import React from 'react';
+import React from "react";
 import { Card, Container, Header, Icon, Input } from "semantic-ui-react";
 
 import Footer from "./Footer";
 const members = [
   {
-    header: 'Juan-Pablo Velez',
+    header: "Juan-Pablo Velez",
+    description: "Software Engineer, Climate Activist",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Dan Haas",
+    meta: "Copake, NY",
     description:
-      'Software Engineer, Climate Activist',
-    meta: 'Copake, NY',
+      "Retired Teacher, Board Member of Harlem Valley Rail Trail, Copake Climate Smart Coordinator",
   },
   {
-    header: 'Dan Haas',
-    meta: 'Copake, NY',
-    description: 'Retired Teacher, Board Member of Harlem Valley Rail Trail, Copake Climate Smart Coordinator',
+    header: "Peggy Lewis",
+    description: "Retired School Conselor",
+    meta: "Taconic Shores in Copake, NY",
   },
   {
-    header: 'Peggy Lewis',
-    description: 'Retired School Conselor',
-    meta: 'Taconic Shores in Copake, NY',
+    header: "Eli Geminder",
+    description: "Metalwork Designer",
+    meta: "Copake Falls, NY",
   },
   {
-    header: 'Eli Geminder',
-    description: 'Metalwork Designer',
-    meta: 'Copake Falls, NY',
+    header: "Roxann Slate",
+    description: "Glass Artisan",
+    meta: "Copake Falls, NY",
   },
   {
-    header: 'Roxann Slate',
-    description: 'Glass Artisam',
-    meta: 'Copake Falls, NY',
+    header: "Gary Lewis",
+    description: "Corporate Attorney",
+    meta: "Taconic Shores in Copake, NY",
   },
   {
-    header: 'Gary Lewis',
-    description: 'Corporate Attorney',
-    meta: 'Taconic Shores in Copake, NY',
+    header: "Elayne Dix",
+    meta: "Copake, NY",
   },
   {
-    header: 'Elayne Dix',
-    meta: 'Copake, NY',
+    header: "Erin Shaw",
+    meta: "Copake, NY",
   },
   {
-    header: 'Erin Shaw',
-    meta: 'Copake, NY',
+    header: "Amanda Pickering",
+    meta: "Copake, NY",
   },
   {
-    header: 'Amanda Pickering',
-    meta: 'Copake, NY',
+    header: "Julia Pearson",
+    meta: "Chatham, NY",
   },
-  {
-    header: 'Julia Pearson',
-    meta: 'Chatham, NY',
-  },
-]
+];
 
 function About() {
   return (
     <>
       <Container>
-        <Header as="h2">👤 Who’s behind this?</Header>
-        <p>Nope, we’re not a fake advocacy group set up by Hecate Energy. We're your neighbors.</p>
+        <Header as="h2" size="huge">
+          👤 Who’s behind this?
+        </Header>
         <p>
-          We want Shepherd's Run to happen, we want it to be 60MW, and we want it to benefit Copake and Columbia County 
-          as much as possible.
+          Nope, we’re not a fake advocacy group set up by Hecate Energy. We're
+          your neighbors.
+        </p>
+        <p>
+          We want Shepherd's Run to happen, we want it to be 60MW, and we want
+          it to benefit Copake and Columbia County as much as possible.
         </p>
         <p>
           Our country has spent the past 30 years dragging its feet on climate
           change. We’ve run out of time and need massive, realistic action now.
         </p>
         <p>
-          It’s not somebody else’s problem. It’s going to take all of us. Let’s lead the charge.
+          It’s not somebody else’s problem. It’s going to take all of us. Let’s
+          lead the charge.
         </p>
-        <br/>
-      <Header as="h3">☎️ &nbsp; How can I get in touch?</Header>
-      <div>
-        <a target="_blank" href="https://www.facebook.com/friendsofcolumbiasolar">
-          <Icon name="facebook square" size="big" />
-        </a>
-        <a target="_blank" href="mailto:hello@friendsofcolumbiasolar.org">
-          <Icon name="mail" size="big" />
-        </a>
-      <br/> <br/> <br/>
-        <Header as="h3">💌 &nbsp; How can I stay up to date?</Header>
-            <p>Join our mailing list to get updates on Shepherd’s Run, and how to help out.</p>
-            <p><em>Don't worry, we won't send you a million pointless emails. </em></p>
+        <br />
+        <Header as="h3" size="large">
+          ☎️ &nbsp; How can I get in touch?
+        </Header>
+        <div>
+          <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://www.facebook.com/friendsofcolumbiasolar"
+          >
+            <Icon name="facebook square" size="big" />
+          </a>
+          <a
+            rel="noreferrer"
+            target="_blank"
+            href="mailto:hello@friendsofcolumbiasolar.org"
+          >
+            <Icon name="mail" size="big" />
+          </a>
+          <br /> <br /> <br />
+          <Header as="h3" size="large">
+            💌 &nbsp; How can I stay up to date?
+          </Header>
+          <p>
+            Join our mailing list to get updates on Shepherd’s Run, and how to
+            help out.
+          </p>
+          <p>
+            <em>Don't worry, we won't send you a million pointless emails. </em>
+          </p>
           <SubscribePage />
-      </div>
-      <br/> <br/>
-      <Header as="h3">🙋‍♀️ &nbsp; Some of our members</Header>
-      <Card.Group items={members} />
+        </div>
+        <br /> <br />
+        <Header as="h3" size="large">
+          🙋‍♀️ &nbsp; Some of our members
+        </Header>
+        <Card.Group items={members} />
       </Container>
       <Footer />
     </>
