@@ -367,10 +367,10 @@ export const FACTS = [
           <p>
             🐣&nbsp;&nbsp;<strong>Will the project help birds?</strong>
           </p>
-          <p>
-            Shepherd’s Run will help our avian friends in two ways:
-            <ol>
-              <li>
+          <p>Shepherd’s Run will help our avian friends in two ways:</p>
+          <ol>
+            <li>
+              <p>
                 By housing native plants that{" "}
                 <a
                   rel="noreferrer"
@@ -381,8 +381,10 @@ export const FACTS = [
                 </a>
                 , and keeping predators out, the solar farm will create a
                 sanctuary for them.
-              </li>
-              <li>
+              </p>
+            </li>
+            <li>
+              <p>
                 Two-thirds of American birds are{" "}
                 <a
                   rel="noreferrer"
@@ -402,9 +404,9 @@ export const FACTS = [
                   supports grid-scale solar
                 </a>
                 .
-              </li>
-            </ol>
-          </p>
+              </p>
+            </li>
+          </ol>
           <br />
           <p>
             🍃&nbsp;&nbsp;
@@ -424,8 +426,10 @@ export const FACTS = [
             Residents have also raised specific concerns about the following
             threatened or endangered birds of prey. Happily, they probably won’t
             be affected:
-            <ul>
-              <li>
+          </p>
+          <ul>
+            <li>
+              <p>
                 Bald eagles{" "}
                 <a
                   rel="noreferrer"
@@ -437,8 +441,10 @@ export const FACTS = [
                 in cliffs and trees near large lakes, and eat mostly fish. They
                 have been spotted in Copake, but they don’t depend on bodies of
                 water, not fields.
-              </li>
-              <li>
+              </p>
+            </li>
+            <li>
+              <p>
                 Peregrine falcons{" "}
                 <a
                   rel="noreferrer"
@@ -457,8 +463,10 @@ export const FACTS = [
                   100 pairs
                 </a>{" "}
                 left in the state.
-              </li>
-              <li>
+              </p>
+            </li>
+            <li>
+              <p>
                 Northern Harriers{" "}
                 <a
                   rel="noreferrer"
@@ -480,9 +488,9 @@ export const FACTS = [
                 </a>
                 &nbsp; in Columbia County because they usually breed further
                 upstate.
-              </li>
-            </ul>
-          </p>
+              </p>
+            </li>
+          </ul>
         </Container>
       ),
     },
@@ -545,7 +553,8 @@ export const FACTS = [
           🔌 Send all the power to NYC?
           <Header.Subheader>
             <p>
-              No. Other counties currently send us most of our power. Shepherd’s Run will allow us to be self-sufficient.
+              No. Other counties currently send us most of our power. Shepherd’s
+              Run will allow us to be self-sufficient.
             </p>
           </Header.Subheader>
         </Header>
@@ -644,7 +653,8 @@ export const FACTS = [
           🥾 Drive away tourists?
           <Header.Subheader>
             <p>
-              Probably not. The panels won't be visible from tourist destinations.
+              Probably not. The panels won't be visible from tourist
+              destinations.
             </p>
           </Header.Subheader>
         </Header>
@@ -1019,9 +1029,7 @@ export const REASONS = [
         <Header as="h3" size="large">
           🏠 Put solar panels on roofs?
           <Header.Subheader>
-            <p>
-            We need to do that too, but it’s not enough.
-            </p>
+            <p>We need to do that too, but it’s not enough.</p>
           </Header.Subheader>
         </Header>
       ),
@@ -1070,8 +1078,8 @@ export const REASONS = [
           parking lot, or industrial site?
           <Header.Subheader>
             <p>
-            These projects are often too expensive to compete with fossil fuels,
-            and there aren’t nearly enough brownfields in the state.
+              These projects are often too expensive to compete with fossil
+              fuels, and there aren’t nearly enough brownfields in the state.
             </p>
           </Header.Subheader>
         </Header>
@@ -1096,8 +1104,10 @@ export const REASONS = [
           <p>
             And there’s the rub. Building on a brownfield is much more expensive
             than building on farmland:
-            <ul>
-              <li>
+          </p>
+          <ul>
+            <li>
+              <p>
                 Landfills can be up to{" "}
                 <a
                   rel="noreferrer"
@@ -1108,8 +1118,10 @@ export const REASONS = [
                 </a>{" "}
                 to build, because the ground is unstable and full of greenhouse
                 gases.
-              </li>
-              <li>
+              </p>
+            </li>
+            <li>
+              <p>
                 Solar parking lots are a clever use of space, but because of
                 their complicated construction, they produce electricity that’s{" "}
                 <a
@@ -1120,15 +1132,17 @@ export const REASONS = [
                   4-8x
                 </a>{" "}
                 more expensive than utility-scale solar.
-              </li>
-              <li>
+              </p>
+            </li>
+            <li>
+              <p>
                 Industrial sites have to be cleared of above-ground structures
                 and require specialized panels that don’t penetrate the ground
                 to avoid disturbing below-ground contaminants. Every site is
                 different, which also adds to cost.
-              </li>
-            </ul>
-          </p>
+              </p>
+            </li>
+          </ul>
           <br />
           <p>
             🚧 &nbsp;&nbsp;<b>There aren’t nearly enough brownfields</b>
@@ -1182,7 +1196,7 @@ export const REASONS = [
           Craryville?
           <Header.Subheader>
             <p>
-            To connect to the electric grid through Craryville’s substation.
+              To connect to the electric grid through Craryville’s substation.
             </p>
           </Header.Subheader>
         </Header>
@@ -1209,8 +1223,8 @@ export const REASONS = [
           hill, out of sight?
           <Header.Subheader>
             <p>
-            This also makes the project too expensive to compete with fossil
-            fuels.
+              This also makes the project too expensive to compete with fossil
+              fuels.
             </p>
           </Header.Subheader>
         </Header>
@@ -1252,8 +1266,8 @@ export const REASONS = [
           🤏 Fine, it has to be there. Why can’t it be smaller?
           <Header.Subheader>
             <p>
-            It can be, and has already been cut down! But it can’t be 10 acres,
-            or we won’t make a dent on climate change.
+              It can be, and has already been cut down! But it can’t be 10
+              acres, or we won’t make a dent on climate change.
             </p>
           </Header.Subheader>
         </Header>
@@ -1266,6 +1280,7 @@ export const REASONS = [
             In response to community concerns, Hecate has already cut the
             project down by nearly 30%, from 500 acres to 360 acres, of which{" "}
             <a
+              rel="noreferrer"
               target="_blank"
               href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020"
             >
@@ -1285,6 +1300,7 @@ export const REASONS = [
             produces. Utility-scale solar projects are cheaper than natural gas
             plants, but 10 acre community solar projects{" "}
             <a
+              rel="noreferrer"
               target="_blank"
               href="https://www.lazard.com/perspective/levelized-cost-of-energy-and-levelized-cost-of-storage-2020/"
             >
@@ -1303,7 +1319,11 @@ export const REASONS = [
           <p>
             But consider this. Shepherd’s Run has .44 square miles of panels. We
             need build{" "}
-            <a target="_blank" href="https://youtu.be/OUpgDsfYhec?t=921">
+            <a
+              rel="noreferrer"
+              target="_blank"
+              href="https://youtu.be/OUpgDsfYhec?t=921"
+            >
               360 square miles
             </a>{" "}
             of solar in the next two decades.
@@ -1337,9 +1357,7 @@ export const REASONS = [
         <Header as="h3" size="large">
           🔨 If we can’t shrink it, can we break it up and scatter it around?
           <Header.Subheader>
-            <p>
-            Small + Far = Too Expensive = More Fossil Fuels
-            </p>
+            <p>Small + Far = Too Expensive = More Fossil Fuels</p>
           </Header.Subheader>
         </Header>
       ),
