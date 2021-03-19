@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 
 import { ReactComponent as Logo } from "./logo.svg";
 
@@ -15,12 +16,13 @@ function Nav({ tab, setTab }) {
       {Object.keys(TABS).map(currentTab => {
         const header = TABS[currentTab];
         return (
-          <button
-            onClick={() => setTab(currentTab)}
-            key={currentTab}
-            className={`${tab === currentTab ? 'disabled' : ''}`}>
-            {header}
-          </button>
+          <Link to={currentTab} className="nav-link" key={currentTab}>
+            <button
+              onClick={() => setTab(currentTab)}
+              className={`${tab === currentTab ? 'disabled' : ''}`}>
+              {header}
+            </button>
+          </Link>
         );
       })}
       <Logo />

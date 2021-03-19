@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { Container, Header } from "semantic-ui-react";
 
 import About from "./About";
@@ -21,12 +22,20 @@ function App() {
   const [tab, setTab] = useState("home");
   const Page = TABS[tab];
   return (
-    <div className="App">
-      <Nav setTab={setTab} tab={tab} />
-      <div className="App-Wrap">
-        <Page />
-      </div>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <div className="App">
+          <div className="App-Wrap">
+            <Nav setTab={setTab} tab={tab} />
+            <Route exact path="/" component={Home}></Route>
+            <Route exact path="/home" component={Home}></Route>
+            <Route exact path="/learn" component={Learn}></Route>
+            <Route exact path="/participate" component={Participate}></Route>
+            <Route exact path="/about" component={About}></Route>
+          </div>
+        </div>
+      </Switch>
+    </BrowserRouter>
   );
 }
 

@@ -222,7 +222,7 @@ export const FACTS = [
               width="600"
               height="371"
               seamless
-              frameborder="0"
+              frameBorder="0"
               scrolling="no"
               src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxjRhzetR1pTR2vorQx3ifb-lzPX3qbaoITMLVyNQKgmrZEagyJxdYZmfH_0kUHZOP1tPOXUH97YxL/pubchart?oid=1920960119&amp;format=interactive"
             ></iframe>

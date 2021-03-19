@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import { Container, Header, Image } from "semantic-ui-react";
 
 import Footer from "./Footer";
@@ -50,9 +51,9 @@ export default function Participate() {
         <p>Write a couple paragraphs about why you support the project.</p>
         <p>
           You might mention how it will
-          <a target="_blank" href="">
+          <Link target="_blank" rel="noreferrer" to="/">
             &nbsp;benefit Copake
-          </a>
+          </Link>
           , and how our State needs hundreds of large solar farms to solve the
           climate crisis. Include what town you live in.
         </p>
