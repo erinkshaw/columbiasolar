@@ -545,8 +545,7 @@ export const FACTS = [
           🔌 Send all the power to NYC?
           <Header.Subheader>
             <p>
-              No. Others counties send us most of our power, Shepherd’s Farm
-              will allow us to be self-sufficient.
+              No. Other counties currently send us most of our power. Shepherd’s Run will allow us to be self-sufficient.
             </p>
           </Header.Subheader>
         </Header>
@@ -645,7 +644,7 @@ export const FACTS = [
           🥾 Drive away tourists?
           <Header.Subheader>
             <p>
-              Probably not. The panels aren’t visible from tourist destinations.
+              Probably not. The panels won't be visible from tourist destinations.
             </p>
           </Header.Subheader>
         </Header>

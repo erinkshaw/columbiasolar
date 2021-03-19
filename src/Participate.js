@@ -51,7 +51,7 @@ export default function Participate() {
         <p>
           You might mention how it will
           <a target="_blank" href="">
-            benefit Copake
+            &nbsp;benefit Copake
           </a>
           , and how our State needs hundreds of large solar farms to solve the
           climate crisis. Include what town you live in.
@@ -78,7 +78,7 @@ export default function Participate() {
             </li>
             <li>
               Email your message to Copake's Town Board, if you live in Copake:{" "}
-              <strong>Supervisor Jeanne Metler</strong>{" "}
+              <strong>Supervisor Jeanne Mettler</strong>{" "}
               (copakesupervisor@fairpoint.net) and{" "}
               <strong>Deputy Supervisor Richard Wolf</strong>{" "}
               (copakedepsupervisor@fairpoint.net)

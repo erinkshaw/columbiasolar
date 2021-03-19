@@ -27,7 +27,7 @@ const Learn = () => (
           property values, and dozens of other topics.
         </p>
         <p>
-          The studies will be published this summer. We'll now much more then.
+          The studies will be published this summer. We'll know much more then.
         </p>
         <p>
           For now, we provide evidence from academic studies, other solar

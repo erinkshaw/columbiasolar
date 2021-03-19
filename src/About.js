@@ -16,7 +16,7 @@ const members = [
   },
   {
     header: "Peggy Lewis",
-    description: "Retired School Conselor",
+    description: "Retired School Counselor",
     meta: "Taconic Shores in Copake, NY",
   },
   {
@@ -64,7 +64,7 @@ function About() {
           your neighbors.
         </p>
         <p>
-          We want Shepherd's Run to happen, we want it to be 60MW, and we want
+          We want Shepherd's Run to happen, we want it to be 60 megawatts, and we want
           it to benefit Copake and Columbia County as much as possible.
         </p>
         <p>
@@ -137,9 +137,9 @@ class SubscribePage extends React.Component {
         method="post"
         id="mc-embedded-subscribe-form"
         name="mc-embedded-subscribe-form"
-        class="validate"
+        className="validate"
         target="_blank"
-        novalidate
+        noValidate
       >
         <label htmlFor="MERGE0">
           Email
