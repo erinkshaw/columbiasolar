@@ -59,8 +59,10 @@ export default function Participate() {
         </p>
         <p>
           <b>Step</b> 2️⃣
-          <ul>
-            <li>
+        </p>
+        <ul>
+          <li>
+            <p>
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -70,22 +72,26 @@ export default function Participate() {
               </a>{" "}
               your message to the New York State Siting Board that will decide
               on the project.
-            </li>
-            <li>
+            </p>
+          </li>
+          <li>
+            <p>
               Email your message to Copake's State Legislators:{" "}
               <strong>Senator Daphne Jordan</strong> (jordan@nysenate.gov) and{" "}
               <strong>Assemblymember Didi Barrett</strong>{" "}
               (barrettd@nyassembly.gov)
-            </li>
-            <li>
+            </p>
+          </li>
+          <li>
+            <p>
               Email your message to Copake's Town Board, if you live in Copake:{" "}
               <strong>Supervisor Jeanne Mettler</strong>{" "}
               (copakesupervisor@fairpoint.net) and{" "}
               <strong>Deputy Supervisor Richard Wolf</strong>{" "}
               (copakedepsupervisor@fairpoint.net)
-            </li>
-          </ul>
-        </p>
+            </p>
+          </li>
+        </ul>
       </Container>
       <Footer />
     </>

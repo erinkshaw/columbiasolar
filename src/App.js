@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import { Container, Header } from "semantic-ui-react";
 
 import About from "./About";
@@ -11,18 +11,11 @@ import Participate from "./Participate";
 
 import "./App.css";
 
-const TABS = {
-  home: Home,
-  about: About,
-  learn: Learn,
-  participate: Participate,
-};
-
 function App() {
   const [tab, setTab] = useState("home");
-  const Page = TABS[tab];
+
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <div className="App">
           <div className="App-Wrap">
@@ -35,7 +28,7 @@ function App() {
           </div>
         </div>
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
