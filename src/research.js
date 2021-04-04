@@ -23,9 +23,9 @@ export function scopeFacts(onClickFunc) {
         content: (
           <Container>
             <p>
-              Resident have raised concerns about the project’s environment
+              Residents have raised concerns about the project’s environmental
               impact. Let’s examine each concern, keeping in mind that by law,
-              New York State’s Department of Environment Conservation won’t
+              New York State’s Department of Environmental Conservation won’t
               authorize the project unless Hecate can{" "}
               <a
                 target="_blank"
@@ -38,8 +38,8 @@ export function scopeFacts(onClickFunc) {
             </p>
             <p>
               🧪 &nbsp;&nbsp; <b>Fewer pesticides</b>: The farms at Shepherd’s
-              Run currently use pesticides to grow corn, according to the land
-              owners. Pesticides can be toxic to animals and{" "}
+              Run currently use pesticides to grow corn, according to the 
+              landowners. Pesticides can be toxic to animals and{" "}
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -68,7 +68,7 @@ export function scopeFacts(onClickFunc) {
                 reduce soil runoff by 95%
               </a>{" "}
               compared to farms. So Shepherd’s Run should significantly reduce
-              the amount of runoff into Taghkanik Creek.
+              the amount of runoff into Taghkanic Creek.
             </p>
             <p>
               ☢️ &nbsp;&nbsp;<b>No soil pollution</b>: The{" "}
@@ -86,7 +86,7 @@ export function scopeFacts(onClickFunc) {
                 target="_blank"
                 href="https://solar.coopercenter.org/node/8116"
               >
-                glass, auminum, plastic, and silicon
+                glass, aluminum, plastic, and silicon
               </a>
               . All these materials are{" "}
               <a
@@ -142,7 +142,7 @@ export function scopeFacts(onClickFunc) {
               🌳 &nbsp;&nbsp;<b>Forests protected</b>: Trees capture greenhouse
               gases, so clearing forests to make room for panels is bad for the
               climate as well as the community. Forests cover 45% of the
-              Shepherd’s Run site. According to Hecate, the small number of
+              Shepherd’s Run site. According to Hecate, a small number of
               trees that dot the farm may be removed, but none of the forest
               groves that surround it will be cleared. And new trees will be
               planted around the facility to protect views.
@@ -216,7 +216,7 @@ export function scopeFacts(onClickFunc) {
             <p>
               👩‍🌾 &nbsp;&nbsp;<b>A lifeline for farmers</b>
               <br />
-              To preserve farms, you need to suppot farmers. Unfortunately,
+              To preserve farms, you need to support farmers. Unfortunately,
               farms in the Hudson Valley have been declining for decades.
             </p>
             <p>
@@ -342,7 +342,7 @@ export function scopeFacts(onClickFunc) {
               do harm birds, but that’s a totally different technology.{" "}
             </p>
             <p>
-              Potovoltaic solar panels probably don’t. Based on experiences at a
+              Photovoltaic solar panels probably don’t. Based on experiences at a
               single solar farm in the water-poor Southwest,{" "}
               <a
                 rel="noreferrer"
@@ -443,7 +443,7 @@ export function scopeFacts(onClickFunc) {
                     nest
                   </a>{" "}
                   in cliffs and trees near large lakes, and eat mostly fish.
-                  They have been spotted in Copake, but they don’t depend on
+                  There's at least one pair nesting in Copake, but they depend on
                   bodies of water, not fields.
                 </p>
               </li>
@@ -479,9 +479,9 @@ export function scopeFacts(onClickFunc) {
                   >
                     nest
                   </a>
-                  &nbsp; in prairies - which the corn fields have already
-                  eliminated and the solar farm will partially restore - and in
-                  wetlands - which the solar farm will preserve. Moreover, they
+                  &nbsp; in prairies—which the corn fields have already
+                  eliminated and the solar farm will partially restore—and in
+                  wetlands—which the solar farm will preserve. Moreover, they
                   are{" "}
                   <a
                     rel="noreferrer"
@@ -490,7 +490,7 @@ export function scopeFacts(onClickFunc) {
                   >
                     infrequently seen
                   </a>
-                  &nbsp; in Columbia County because they usually breed further
+                  &nbsp; in Columbia County because they usually breed farther
                   upstate.
                 </p>
               </li>
@@ -505,7 +505,7 @@ export function scopeFacts(onClickFunc) {
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 3)} id="fact-3">
             🦝 Hurt animals?
             <Header.Subheader>
-              <p>No, they’ll just need to go around the fenced-in areas</p>
+              <p>No, they’ll just need to go around the fenced-in areas.</p>
             </Header.Subheader>
           </Header>
         ),
@@ -749,7 +749,7 @@ export function scopeFacts(onClickFunc) {
             <p>
               <em>
                 “These results suggest that the treatment effect in rural areas
-                is nbsp;
+                is &nbsp;
                 <b>effectively zero</b> (a statistically insignificant 0.1%),
                 and that the negative externalities of solar arrays are only
                 occurring in non-rural areas. These findings go against our
@@ -771,12 +771,12 @@ export function scopeFacts(onClickFunc) {
             </p>
             <br />
             <p>
-              😱 &nbsp;&nbsp;<b>Worst case scenario</b>
+              😱 &nbsp;&nbsp;<b>Worst-case scenario</b>
             </p>
             <p>
-              But let’s assume a worst case scenario and see what happens. Homes
-              within a mile of Shepherd’s Run - more likely, the few dozen homes
-              that view the solar farm or are right next to it - could lose up
+              But let’s assume a worst-case scenario and see what happens. Homes
+              within a mile of Shepherd’s Run—more likely, the few dozen homes
+              that view the solar farm or are right next to it—could lose up
               to 2% of their value.
             </p>
             <p>
@@ -785,8 +785,8 @@ export function scopeFacts(onClickFunc) {
             </p>
             <p>
               But thankfully, it shouldn’t jeopardize anyone’s finances either.
-              If your home is worth $250k, and the property value goes down by
-              2%, it would still be worth $245k.
+              If your home is worth $250K, and the property value goes down by
+              2%, it would still be worth $245K.
             </p>
             <br />
             <p>
@@ -808,7 +808,7 @@ export function scopeFacts(onClickFunc) {
             <p>
               Moreover, this 2% drop is tiny compared to the 30% jump in home
               values we’ve seen in Columbia County since the start of the
-              pandemic (Feb 2020-Feb 2021).
+              pandemic (Feb. 2020-Feb. 2021).
             </p>
             <p>
               So that $250K home is now probably worth $325K. And it'll probably
@@ -847,7 +847,7 @@ export function scopeFacts(onClickFunc) {
                   target="_blank"
                   href="https://www.oglecounty.org/document_center/planning%20&%20zoning/Solar%20Ad%20Hoc%20Committee/PV%20Impact%20Studies/CR%20-%20SunVest%20Solar%20-%20Solar%20Farm%20Impact%20Study%20(Report%20Date%205-30-2018).pdf"
                 >
-                  other
+                  &nbsp;other
                 </a>{" "}
                 <a
                   rel="noreferrer"
@@ -883,7 +883,7 @@ export function scopeFacts(onClickFunc) {
                 Despite those flaws, the study concludes: “Results from our
                 survey of home assessors show that the majority of respondents
                 believe that proximity to a solar installation either had no
-                impact or positive impact on home values (
+                impact or positive impact on home values." (
                 <a
                   rel="noreferrer"
                   target="_blank"
@@ -924,7 +924,7 @@ export function scopeFacts(onClickFunc) {
               >
                 very rarely start fires
               </a>
-              . We know this because, even though the US doesn’t track solar
+              . We know this because, even though the U.S. doesn’t track solar
               panel fires, other countries do: In the past 20 years, only{" "}
               <a
                 rel="noreferrer"
@@ -933,7 +933,7 @@ export function scopeFacts(onClickFunc) {
               >
                 120 of Germany’s 2 million
               </a>{" "}
-              solar installations stared a fire. In Japan, only{" "}
+              solar installations started a fire. In Japan, only{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -945,7 +945,7 @@ export function scopeFacts(onClickFunc) {
             </p>
             <p>
               Moreover, Hecate is required to pay special district property
-              taxes to the Fire Department. So the fire department will actually
+              taxes to the fire department. So the fire department will actually
               get a significant funding boost in exchange for a minuscule
               increase in fire risk.
             </p>
@@ -981,7 +981,7 @@ export function scopeFacts(onClickFunc) {
                 can approve or deny
               </a>{" "}
               the project. If it’s greater than 25MW, however, a state siting
-              board - made up of 5 state appointees and 2 local ones -{" "}
+              board—made up of 5 state appointees and 2 local ones—{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -993,7 +993,7 @@ export function scopeFacts(onClickFunc) {
             </p>
             <p>
               Shepherd’s Run is 60MW, so Hecate has no option but to go through
-              the State-level{" "}
+              the state-level{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -1005,8 +1005,8 @@ export function scopeFacts(onClickFunc) {
               Copake, but ultimately the siting board still has to approve.
             </p>
             <p>
-              If the board approves the project - which requires complying with
-              extensive environmental and economic regulations - then Hecate is
+              If the board approves the project—which requires complying with
+              extensive environmental and economic regulations—then Hecate is
               legally authorized to build.
             </p>
             <p>
@@ -1061,7 +1061,7 @@ export function scopeReasons(onClickFunc) {
               of solar in the next 15 to 20 years to reach 100% clean energy in
               New York State, according to solar power expert Dr. Richard Perez
               of SUNY Albany. If we put panels on half of all buildings and
-              parking lots in in the state, that would amount to only 160 square
+              parking lots in the state, that would amount to only 160 square
               miles. That’s not even halfway to 360.
             </p>
             <p>
@@ -1123,7 +1123,7 @@ export function scopeReasons(onClickFunc) {
                   >
                     20% more expensive
                   </a>{" "}
-                  to build, because the ground is unstable and full of
+                  to build on, because the ground is unstable and full of
                   greenhouse gases.
                 </p>
               </li>
@@ -1249,13 +1249,13 @@ export function scopeReasons(onClickFunc) {
             <p>
               The further we place the solar farm from the substation, the more
               transmission line we need to run. Not only is this unsightly, it’s
-              surprisingly expensive: between{" "}
+              surprisingly expensive: from{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
                 href="https://www.transmissionhub.com/articles/2012/10/wecc-report-building-transmission-in-the-west-costs-1m-to-3m-mile.html"
               >
-                1 to 3 million dollars per mile
+                $1 million to $3 million per mile
               </a>
               .
             </p>
