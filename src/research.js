@@ -614,7 +614,7 @@ export function scopeFacts(onClickFunc) {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020'"
+                href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p18/a2022763"
               >
                 committed
               </a>{" "}
@@ -1291,7 +1291,7 @@ export function scopeReasons(onClickFunc) {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020"
+                href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020#document/p17/a2018878"
               >
                 only 280 acres
               </a>{" "}
