@@ -861,20 +861,30 @@ export function scopeFacts(onClickFunc) {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://emp.lbl.gov/sites/default/files/property-value_impacts_near_utility-scale_solar_installations.pdf"
+                  href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations"
                 >
                   often-cited study
                 </a>{" "}
-                from the LBJ School of Public Affairs relies on surveys from{" "}
+                from the LBJ School of Public Affairs isn't a published and peer-reviewed academic article at all. 
+                It's a &nbsp;
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations"
+                  href="https://energy.utexas.edu/news/students-examine-solar-market-trends-lbj-school-policy-research-project"
+                >
+                  group project
+                </a>
+                &nbsp;from some students.
+                The paper relies on surveys from{" "}
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  href="https://www.documentcloud.org/documents/20514190-rai-et-al-an-exploration-of-property-value-impacts-near-utility-scale-solar-installations#document/p13/a2022758"
                 >
                   just 37 assessors
                 </a>
-                . This is a tiny sample. And you want to answer this question by
-                analyzing hard data on thousands of home sales, not by asking a
+                . This is a tiny sample. To answer this question, you need to
+                analyze hard data on thousands of home sales, not ask
                 couple dozen assessors for their subjective opinion.
               </i>
             </p>
