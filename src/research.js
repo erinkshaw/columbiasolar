@@ -84,15 +84,15 @@ export function scopeFacts(onClickFunc) {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://solar.coopercenter.org/node/8116"
+                href="https://www.documentcloud.org/documents/20577912-nc-clean-energy-health-and-safety-impacts-of-solar-photovoltaics#document/p4/a2026382"
               >
-                glass, aluminum, plastic, and silicon
+                glass, silicon, plastic, aluminum, copper and semiconductors
               </a>
               . All these materials are{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://beta.documentcloud.org/documents/20488379-international-renewable-energy-agency-end-of-life-management-solar-photovoltaic-panels#document/p82/a2018881"
+                href="https://www.documentcloud.org/documents/20488379-international-renewable-energy-agency-end-of-life-management-solar-photovoltaic-panels#document/p82/a2018881"
               >
                 recyclable
               </a>
@@ -100,7 +100,7 @@ export function scopeFacts(onClickFunc) {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://solar.coopercenter.org/node/8116"
+                href="https://www.documentcloud.org/documents/20577912-nc-clean-energy-health-and-safety-impacts-of-solar-photovoltaics#document/p6/a2026383"
               >
                 toxic
               </a>
