@@ -49,8 +49,7 @@ const Benefits = () => {
       <p>
         We all love Copake’s rural charm, and we all want to conserve it.
         Shepherd’s Run will indeed place panels on top of farmland. But after
-        three decades of corn and cattle, that land is tired and yields are
-        down.
+        three decades of corn and cattle, that land is tired.
       </p>
       <p>
         {" "}
