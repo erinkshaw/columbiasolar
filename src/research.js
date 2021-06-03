@@ -7,7 +7,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("fact", 0)} id="fact-0">
-            🌎 Pollute the environment?
+            <a>🌎 Pollute the environment?</a>
             <Header.Subheader>
               <p>
                 No. Shepherd’s Run will improve the local environment by
@@ -155,7 +155,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 1)} id="fact-1">
-            🚜 Eliminate farmland forever?
+            <a>🚜 Eliminate farmland forever?</a>
             <Header.Subheader>
               <p>
                 No. Shepherd’s Run will improve the farms’ soil, support the
@@ -301,7 +301,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 2)} id="fact-2">
-            🐦 Hurt birds?
+            <a>🐦 Hurt birds?</a>
             <Header.Subheader>
               <p>
                 No, Shepherd’s Run native plants will help birds and solar
@@ -503,7 +503,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 3)} id="fact-3">
-            🦝 Hurt animals?
+            <a>🦝 Hurt animals?</a>
             <Header.Subheader>
               <p>No, they’ll just need to go around the fenced-in areas</p>
             </Header.Subheader>
@@ -554,7 +554,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 4)} id="fact-4">
-            🔌 Send all the power to NYC?
+            <a>🔌 Send all the power to NYC?</a>
             <Header.Subheader>
               <p>
                 No. Other counties currently send us most of our power.
@@ -596,7 +596,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 5)} id="fact-5">
-            👁️ Be an eyesore?
+            <a>👁️ Be an eyesore?</a>
             <Header.Subheader>
               <p>
                 We don’t know the visual impact yet, but Hecate is taking steps
@@ -654,7 +654,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 6)} id="fact-6">
-            🥾 Drive away tourists?
+            <a>🥾 Drive away tourists?</a>
             <Header.Subheader>
               <p>
                 Probably not. The panels won't be visible from tourist
@@ -692,7 +692,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 7)} id="fact-7">
-            🏠 Hurt home values?
+            <a>🏠 Hurt home values?</a>
             <Header.Subheader>
               <p>
                 Not for most people, unless the property can see the panels.
@@ -902,7 +902,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 8)} id="fact-8">
-            🔥 Create fires our firefighters can’t handle?
+            <a>🔥 Create fires our firefighters can’t handle?</a>
             <Header.Subheader>
               <p>
                 No. Solar panel fires are extremely rare, and the project will
@@ -957,7 +957,7 @@ export function scopeFacts(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large"  onClick={() => onClickFunc("fact", 9)} id="fact-9">
-            ⚖️ Break the law?
+            <a>⚖️ Break the law?</a>
             <Header.Subheader>
               <p>
                 No. The project is legal under state law, even if local zoning
@@ -1034,7 +1034,7 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 0)} id="reason-0">
-            🏠 Put solar panels on roofs?
+            <a>🏠 Put solar panels on roofs?</a>
             <Header.Subheader>
               <p>We need to do that too, but it’s not enough.</p>
             </Header.Subheader>
@@ -1081,8 +1081,8 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 1)} id="reason-1">
-            🏭 Okay, so we need a solar farm. But can’t we put it on a landfill,
-            parking lot, or industrial site?
+            <a>🏭 Okay, so we need a solar farm. But can’t we put it on a landfill,
+            parking lot, or industrial site?</a>
             <Header.Subheader>
               <p>
                 These projects are often too expensive to compete with fossil
@@ -1200,8 +1200,8 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 2)} id="reason-2">
-            📍So it has to be on a greenfield, but why does it have to be in
-            Craryville?
+            <a>📍So it has to be on a greenfield, but why does it have to be in
+            Craryville?</a>
             <Header.Subheader>
               <p>
                 To connect to the electric grid through Craryville’s substation.
@@ -1227,8 +1227,8 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 3)} id="reason-3">
-            🖼️ Maybe it has to be near Craryville, but why not tuck it over a
-            hill, out of sight?
+            <a>🖼️ Maybe it has to be near Craryville, but why not tuck it over a
+            hill, out of sight?</a>
             <Header.Subheader>
               <p>
                 This also makes the project too expensive to compete with fossil
@@ -1272,7 +1272,7 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 4)} id="reason-4">
-            🤏 Fine, it has to be there. Why can’t it be smaller?
+            <a>🤏 Fine, it has to be there. Why can’t it be smaller?</a>
             <Header.Subheader>
               <p>
                 It can be, and has already been cut down! But it can’t be 10
@@ -1287,13 +1287,13 @@ export function scopeReasons(onClickFunc) {
           <Container>
             <p>
               In response to community concerns, Hecate has already cut the
-              project down by nearly 30%, from 500 acres to 360 acres, of which{" "}
+              project down by nearly 50%, from 500 acres to 255 acres, of which{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://www.documentcloud.org/documents/20485438-hecate-energy-shepherds-run-solar-farm-open-house-12092020"
+                href="http://www.shepherdsrunsolar.com/assets/img/openhouseapril/Board7.jpg"
               >
-                only 280 acres
+                only 80 acres
               </a>{" "}
               will be covered in panels.
             </p>
@@ -1364,7 +1364,7 @@ export function scopeReasons(onClickFunc) {
       title: {
         content: (
           <Header as="h3" size="large" onClick={() => onClickFunc("reason", 5)} id="reason-5">
-            🔨 If we can’t shrink it, can we break it up and scatter it around?
+            <a>🔨 If we can’t shrink it, can we break it up and scatter it around?</a>
             <Header.Subheader>
               <p>Small + Far = Too Expensive = More Fossil Fuels</p>
             </Header.Subheader>
