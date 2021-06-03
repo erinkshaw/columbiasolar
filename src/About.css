@@ -1,0 +1,8 @@
+.allies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.allies img {
+  height: 15em;
+}

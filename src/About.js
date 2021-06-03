@@ -2,12 +2,10 @@ import React from "react";
 import { Card, Container, Header, Icon, Input } from "semantic-ui-react";
 
 import Footer from "./Footer";
+
+import "./About.css";
+
 const members = [
-  {
-    header: "Juan-Pablo Velez",
-    description: "Software Engineer, Climate Activist",
-    meta: "Copake, NY",
-  },
   {
     header: "Dan Haas",
     meta: "Copake, NY",
@@ -15,9 +13,9 @@ const members = [
       "Retired Teacher, Board Member of Harlem Valley Rail Trail, Copake Climate Smart Coordinator",
   },
   {
-    header: "Peggy Lewis",
-    description: "Retired School Counselor",
-    meta: "Taconic Shores in Copake, NY",
+    header: "Juan-Pablo Velez",
+    description: "Software Engineer, Climate Activist",
+    meta: "Copake, NY",
   },
   {
     header: "Eli Geminder",
@@ -25,14 +23,58 @@ const members = [
     meta: "Copake Falls, NY",
   },
   {
+    header: "Peggy Lewis",
+    description: "Retired School Counselor",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Gary Lewis",
+    description: "Corporate Attorney",
+    meta: "Copake, NY",
+  },
+  {
     header: "Roxann Slate",
     description: "Glass Artisan",
     meta: "Copake Falls, NY",
   },
   {
-    header: "Gary Lewis",
-    description: "Corporate Attorney",
-    meta: "Taconic Shores in Copake, NY",
+    header: "Sandra Baptie",
+    description: "Architect",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Lawrence Linder",
+    description: "Architect",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Alexa Knight",
+    description: "Researcher and Strategist",
+    meta: "Ancram, NY",
+  },
+  {
+    header: "David Grubin",
+    description: "Filmmaker",
+    meta: "Hillsdale, NY",
+  },
+  {
+    header: "Joan Grubin",
+    description: "Artist",
+    meta: "Hillsdale, NY",
+  },
+  {
+    header: "Gary Siegel",
+    description: "Environmental Engineer",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Harry Hussey",
+    description: "Data guy, Musician",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Leslie Wood",
+    meta: "Copake Falls, NY",
   },
   {
     header: "Elayne Dix",
@@ -44,6 +86,14 @@ const members = [
   },
   {
     header: "Amanda Pickering",
+    meta: "Copake, NY",
+  },
+  {
+    header: "Steve Passage",
+    meta: "West Copake, NY",
+  },
+  {
+    header: "Alice Platt",
     meta: "Copake, NY",
   },
   {
@@ -112,6 +162,19 @@ function About() {
           🙋‍♀️ &nbsp; Some of our members
         </Header>
         <Card.Group items={members} />
+        <br /> <br />
+        <Header as="h3" size="large">
+          💪🏻 &nbsp; Our ally organizations
+        </Header>
+        <div className="allies">
+          <a href="https://nyforcleanpower.org/">
+            <img alt="New Yorkers for Clean Power" src="https://nyforcleanpower.org/wp-content/uploads/2018/04/340x200-NYfCP-Logo-1.png" />
+          </a>
+          <a href="https://www.nyrenews.org/">
+            <img alt="NY Renews" src="https://images.squarespace-cdn.com/content/v1/58ae35fddb29d6acd5d7f35c/1620837476925-FY2F02WMWZVBNG1QJTFC/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/NYRenews-logo-green+%281%29+%281%29.png?format=1000w" />
+          </a>
+        </div>
+
       </Container>
       <Footer />
     </>
