@@ -68,6 +68,11 @@ const members = [
     meta: "Copake, NY",
   },
   {
+    header: "Marc Gross",
+    description: "Attorney",
+    meta: "West Copake, NY",
+  },
+  {
     header: "Harry Hussey",
     description: "Data guy, Musician",
     meta: "Copake, NY",
@@ -94,7 +99,7 @@ const members = [
   },
   {
     header: "Alice Platt",
-    meta: "Copake, NY",
+    meta: "Taghkanic, NY",
   },
   {
     header: "Julia Pearson",
