@@ -108,7 +108,7 @@ export function scopeFacts(onClickFunc) {
               people, animals, or soil.
             </p>
             <p>
-              💧 &nbsp;&nbsp;<b>No water pollution</b>: Solar farms don’t leach
+              💧 &nbsp;&nbsp;<b>No water pollution</b>: Solar farms don’t leech
               materials, so Shepherd’s Run shouldn’t hurt the quality of
               Copake’s water. It will likely improve it, by reducing erosion and
               removing cow dung and corn pesticides.
@@ -251,7 +251,7 @@ export function scopeFacts(onClickFunc) {
             <p>
               🏡&nbsp;&nbsp;<b>Preventing real estate development for good</b>
               <br />
-              Shepherd’s Farm could also ensure that the farmland is legally
+              Shepherd’s Run could also ensure that the farmland is legally
               protected for good.
             </p>
             <p>
@@ -480,8 +480,8 @@ export function scopeFacts(onClickFunc) {
                     nest
                   </a>
                   &nbsp; in prairies—which the corn fields have already
-                  eliminated and the solar farm will partially restore—and in
-                  wetlands—which the solar farm will preserve. Moreover, they
+                  eliminated and the solar farm will partially restore, and in
+                  wetlands, which the solar farm will preserve. Moreover, they
                   are{" "}
                   <a
                     rel="noreferrer"
@@ -623,9 +623,7 @@ export function scopeFacts(onClickFunc) {
               add trees and where to remove panels.
             </p>
             <p>
-              They are planning an open house in April 2021 to present and
-              visualize this new design. We’ll know much more about the visual
-              impacts then.
+              They are planning to present and visualize this new design. We’ll know much more about the visual impacts then.
             </p>
             <p>
               Nevertheless, it’s useful to keep things in perspective: only{" "}
@@ -775,8 +773,8 @@ export function scopeFacts(onClickFunc) {
             </p>
             <p>
               But let’s assume a worst-case scenario and see what happens. Homes
-              within a mile of Shepherd’s Run—more likely, the few dozen homes
-              that view the solar farm or are right next to it—could lose up
+              within a mile of Shepherd’s Run — more likely, the few dozen homes
+              that view the solar farm or are right next to it — could lose up
               to 2% of their value.
             </p>
             <p>
@@ -991,7 +989,7 @@ export function scopeFacts(onClickFunc) {
                 can approve or deny
               </a>{" "}
               the project. If it’s greater than 25MW, however, a state siting
-              board—made up of 5 state appointees and 2 local ones—{" "}
+              board — made up of 5 state appointees and 2 local ones — {" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -1009,7 +1007,7 @@ export function scopeFacts(onClickFunc) {
                 target="_blank"
                 href="http://blogs.law.columbia.edu/climatechange/2011/06/28/the-power-new-york-act-of-2011-reauthorizes-and-modernizes-article-x-of-the-public-service-law/"
               >
-                article 10 siting process
+                Article 10 siting process
               </a>{" "}
               (or the new 94C process). They can negotiate with the Town of
               Copake, but ultimately the siting board still has to approve.
@@ -1308,7 +1306,7 @@ export function scopeReasons(onClickFunc) {
               will be covered in panels.
             </p>
             <p>
-              But Shepherd’s Runs still needs to be hundreds of acres, not
+              But Shepherd’s Run still needs to be hundreds of acres, not
               dozens. For two reasons: cost and scale.
             </p>
             <p>
@@ -1317,7 +1315,7 @@ export function scopeReasons(onClickFunc) {
             <p>
               The smaller the project is, the more expensive the electricity it
               produces. Utility-scale solar projects are cheaper than natural
-              gas plants, but 10 acre community solar projects{" "}
+              gas plants, but 10-acre community solar projects{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -1336,8 +1334,8 @@ export function scopeReasons(onClickFunc) {
               should be small too!”
             </p>
             <p>
-              But consider this. Shepherd’s Run has .44 square miles of panels.
-              We need build{" "}
+              But consider this, Shepherd’s Run has .44 square miles of panels.
+              We need to build{" "}
               <a
                 rel="noreferrer"
                 target="_blank"
@@ -1349,9 +1347,9 @@ export function scopeReasons(onClickFunc) {
             </p>
             <p>
               If we put half the panels in cities, and half in the country, we’d
-              still need to uild <b>411</b> solar farms the size of Shepherd’s
+              still need to build <b>411</b> solar farms the size of Shepherd’s
               Run to get the job done. <b>44%</b> of New York’s 932 towns would
-              have a big solar farms!
+              have a big solar farm!
             </p>
             <p>
               That’s already a huge undertaking. But if the solar farms all have
@@ -1359,7 +1357,7 @@ export function scopeReasons(onClickFunc) {
               to build 11,520! Each town would end up with 12 farms. And because
               of all the regulations solar farms need to satisfy, all projects
               take years to get approval, even small ones. There isn’t enough
-              time to blanket the New York in 10 acre projects.
+              time to blanket New York in 10 acre projects.
             </p>
             <p>
               So Shepherd’s Run isn’t actually too big. It’s just right. If
@@ -1385,7 +1383,7 @@ export function scopeReasons(onClickFunc) {
         content: (
           <Container>
             <p>
-              That would be an elegant solution! But unfortunately, we run into
+              That would be an elegant solution! But unfortunately, we run
               right into the last two problems we encountered: Small projects
               far from substations are too expensive to beat fossil fuels.
             </p>

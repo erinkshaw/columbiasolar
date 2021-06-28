@@ -102,9 +102,13 @@ const members = [
     meta: "Taghkanic, NY",
   },
   {
-    header: "Julia Pearson",
-    meta: "Chatham, NY",
+    header: "Tom Walsh",
+    meta: "Copake, NY",
   },
+  // {
+  //   header: "Julia Pearson",
+  //   meta: "Chatham, NY",
+  // },
 ];
 
 function About() {

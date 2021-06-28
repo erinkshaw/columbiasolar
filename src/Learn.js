@@ -69,7 +69,7 @@ class Learn extends React.Component {
           <Segment>
             <p>
               <b>Note</b>: to comply with New York State regulations, Hecate is
-              studying how the solar farm will affect agriculture, wildlife,
+              studying how the solar farm will affect agriculture, wildlife, and
               property values, and dozens of other topics.
             </p>
             <p>

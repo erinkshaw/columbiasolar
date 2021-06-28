@@ -26,7 +26,7 @@ export default function Participate() {
         </p>
         <br />
         <Header as="h3" size="large">
-          🏠 Yard Signs for Neighbors
+          🏠 Yard signs for neighbors
         </Header>
         <p>
           Yard signs are critical for spreading awareness about why Shepherd's
@@ -42,7 +42,7 @@ export default function Participate() {
         <br />
         <br />
         <Header as="h3" size="large">
-          🏛️ Contact the State and Town
+          🏛️ Contact the state and town
         </Header>
         <p>Our leaders need to hear from supporters!</p>
         <p>
@@ -54,7 +54,7 @@ export default function Participate() {
           <Link target="_blank" rel="noreferrer" to="/">
             &nbsp;benefit Copake
           </Link>
-          , and how our State needs hundreds of large solar farms to solve the
+          , and how our state needs hundreds of large solar farms to solve the
           climate crisis. Include what town you live in.
         </p>
         <p>
@@ -70,13 +70,12 @@ export default function Participate() {
               >
                 Submit
               </a>{" "}
-              your message to the New York State Siting Board that will decide
-              on the project.
+              your message to the New York Department of Public Service.
             </p>
           </li>
           <li>
             <p>
-              Email your message to Copake's State Legislators:{" "}
+              Email your message to Copake's state legislators:{" "}
               <strong>Senator Daphne Jordan</strong> (jordan@nysenate.gov) and{" "}
               <strong>Assemblymember Didi Barrett</strong>{" "}
               (barrettd@nyassembly.gov)
