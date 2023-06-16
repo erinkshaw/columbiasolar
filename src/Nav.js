@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
 import { ReactComponent as Logo } from "./logo.svg";
 
@@ -12,7 +12,7 @@ class Nav extends React.Component {
     this.state = { width: 0 };
 
     window.addEventListener("resize", this.update);
-  };
+  }
 
   componentDidMount() {
     this.update();
@@ -26,23 +26,31 @@ class Nav extends React.Component {
     const { tab, setTab } = this.props;
     const { width } = this.state;
     const TABS = {
-      home: 'Home',
-      learn: 'Learn More',
-      about: 'About Us',
-      participate: 'Get Involved',
+      home: "Home",
+      climate: "Climate",
+      working: "Working Group",
+      about: "About Us",
+      act: "Act Now",
     };
-    const TABKEYS = width > 800 ? Object.keys(TABS).reverse() : Object.keys(TABS);
+    const TABKEYS =
+      width > 600 ? Object.keys(TABS).reverse() : Object.keys(TABS);
 
     return (
       <div className="Nav">
         <Logo />
-        {TABKEYS.map(currentTab => {
+        {TABKEYS.map((currentTab) => {
           const header = TABS[currentTab];
           return (
             <Link to={currentTab} className="nav-link" key={currentTab}>
               <button
-                onClick={() => setTab(currentTab)}
-                className={`${tab === currentTab ? 'disabled' : ''}`}>
+                onClick={() => {
+                  updateButtom(currentTab);
+                  setTab(currentTab);
+                }}
+                className={`${
+                  tab === currentTab ? "disabled" : ""
+                } ${currentTab}`}
+              >
                 {header}
               </button>
             </Link>
@@ -54,3 +62,10 @@ class Nav extends React.Component {
 }
 
 export default Nav;
+
+function updateButtom(className) {
+  const disabled = document.querySelector(".disabled");
+  const newDisabled = document.querySelector(`.${className}`);
+  disabled.classList.remove("disabled");
+  newDisabled.classList.add("disabled");
+}
